@@ -82,5 +82,9 @@ class Denizen(models.Model):
             MaxValueValidator(2000, _("They can't be younger than 18"))])
     ballot = models.CharField(_("ballot name"), blank=True, max_length=30)
 
+    class Meta:
+        verbose_name = _("Denizen")
+        verbose_name_plural = _("Denizens")
+
     def __str__(self):
         return self.name
