@@ -11,10 +11,12 @@ verify_ssl = true
 
 [requires]
 
-python_version = "3.7"
+python_version = "3.6.6"
 
 
 [packages]
 
 django = "*"
 django-csvimport = {git = "https://github.com/xavierlesa/django-csvimport.git"}
+gunicorn = "*"
+django-heroku = "*"
