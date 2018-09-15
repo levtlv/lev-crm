@@ -1,0 +1,139 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-14 14:22+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: denizen/models.py:7
+msgid "new"
+msgstr ""
+
+#: denizen/models.py:8
+msgid "supporter"
+msgstr ""
+
+#: denizen/models.py:9
+msgid "undecided"
+msgstr ""
+
+#: denizen/models.py:10
+msgid "huldai"
+msgstr ""
+
+#: denizen/models.py:11
+msgid "zamir"
+msgstr ""
+
+#: denizen/models.py:12
+msgid "assaf Harel"
+msgstr ""
+
+#: denizen/models.py:16
+msgid "no thanks"
+msgstr ""
+
+#: denizen/models.py:17
+msgid "willing"
+msgstr ""
+
+#: denizen/models.py:18
+msgid "fullfilled"
+msgstr ""
+
+#: denizen/models.py:23 denizen/models.py:25
+msgid "name"
+msgstr ""
+
+#: denizen/models.py:27
+msgid "phone"
+msgstr ""
+
+#: denizen/models.py:28
+msgid "email"
+msgstr ""
+
+#: denizen/models.py:30
+msgid "state"
+msgstr ""
+
+#: denizen/models.py:31
+msgid "willing to voounteer on election day"
+msgstr ""
+
+#: denizen/models.py:33
+msgid "willing to be in the second ring"
+msgstr ""
+
+#: denizen/models.py:35
+msgid "willing to host a meetup"
+msgstr ""
+
+#: denizen/models.py:37
+msgid "willing to hang a palrig"
+msgstr ""
+
+#: denizen/models.py:39
+msgid "willing to  digital volounteer"
+msgstr ""
+
+#: denizen/models.py:42
+msgid "Interested in women rights"
+msgstr ""
+
+#: denizen/models.py:44
+msgid "Interested in civic participation"
+msgstr ""
+
+#: denizen/models.py:46
+msgid "Interested in the commons"
+msgstr ""
+
+#: denizen/models.py:48
+msgid "Interested in education"
+msgstr ""
+
+#: denizen/models.py:49
+msgid "Interested in religion"
+msgstr ""
+
+#: denizen/models.py:50
+msgid "Address"
+msgstr ""
+
+#: denizen/models.py:51
+msgid "Notes"
+msgstr ""
+
+#: denizen/models.py:52
+msgid "zehut"
+msgstr ""
+
+#: denizen/models.py:54
+msgid "birth year"
+msgstr ""
+
+#: denizen/models.py:55
+msgid "they can't be more than 108 years old"
+msgstr ""
+
+#: denizen/models.py:56
+msgid "They can't be younger than 18"
+msgstr ""
+
+#: denizen/models.py:57
+msgid "ballot name"
+msgstr ""
