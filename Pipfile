@@ -17,3 +17,4 @@ python_version = "3.7"
 [packages]
 
 django = "*"
+django-csvimport = {git = "https://github.com/xavierlesa/django-csvimport.git"}
