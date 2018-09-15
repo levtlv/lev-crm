@@ -1,0 +1,155 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-15 14:55+0000\n"
+"PO-Revision-Date: 2018-09-15 18:00+0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: denizen/admin.py:17
+msgid "Intrests"
+msgstr "תחומי ענין"
+
+#: denizen/admin.py:20
+msgid "Volunteering"
+msgstr "התנדבות"
+
+#: denizen/models.py:7
+msgid "new"
+msgstr "חדש"
+
+#: denizen/models.py:8
+msgid "supporter"
+msgstr "תומכת"
+
+#: denizen/models.py:9
+msgid "undecided"
+msgstr "מתלבטת"
+
+#: denizen/models.py:10
+msgid "huldai"
+msgstr "חולדאי"
+
+#: denizen/models.py:11
+msgid "zamir"
+msgstr "זמיר"
+
+#: denizen/models.py:12
+msgid "assaf Harel"
+msgstr "אסף"
+
+#: denizen/models.py:16
+msgid "no thanks"
+msgstr "לא צודה"
+
+#: denizen/models.py:17
+msgid "willing"
+msgstr "בכיף"
+
+#: denizen/models.py:18
+msgid "fullfilled"
+msgstr "בוצע"
+
+#: denizen/models.py:47
+msgid "name"
+msgstr "שם"
+
+#: denizen/models.py:49
+msgid "father's name"
+msgstr "שם האב"
+
+#: denizen/models.py:51
+msgid "phone"
+msgstr "טלפון"
+
+#: denizen/models.py:52
+msgid "email"
+msgstr "דואל"
+
+#: denizen/models.py:54
+msgid "state"
+msgstr "מצב"
+
+#: denizen/models.py:55
+msgid "Neighborhood"
+msgstr "שכונה"
+
+#: denizen/models.py:57
+msgid "willing to voounteer on election day"
+msgstr "מוכן להתנדב ביום בחירות"
+
+#: denizen/models.py:59
+msgid "willing to be in the second ring"
+msgstr "מוכל להיות במעגל השני"
+
+#: denizen/models.py:61
+msgid "willing to host a meetup"
+msgstr "מוכן לארח מפגש"
+
+#: denizen/models.py:63
+msgid "willing to hang a palrig"
+msgstr "מוכן לתלות פאלריג"
+
+#: denizen/models.py:65
+msgid "willing to  digital volounteer"
+msgstr "מוכן לעזור בדיגיטל"
+
+#: denizen/models.py:68
+msgid "Interested in women rights"
+msgstr "מתעניינת בזכויות נשים"
+
+#: denizen/models.py:70
+msgid "Interested in civic participation"
+msgstr "מתעניינת בשיתוף ציבור"
+
+#: denizen/models.py:72
+msgid "Interested in the commons"
+msgstr "מתעניינת במרחב הציבורי"
+
+#: denizen/models.py:74
+msgid "Interested in education"
+msgstr "מתעניינת בחינוך"
+
+#: denizen/models.py:75
+msgid "Interested in religion"
+msgstr "מתעניינת בהדתה"
+
+#: denizen/models.py:76
+msgid "Address"
+msgstr "כתובת"
+
+#: denizen/models.py:77
+msgid "Notes"
+msgstr "הערות"
+
+#: denizen/models.py:78
+msgid "zehut"
+msgstr "ת.ז."
+
+#: denizen/models.py:80
+msgid "birth year"
+msgstr "שמת לידה"
+
+#: denizen/models.py:81
+msgid "they can't be more than 108 years old"
+msgstr "אין מצב שהיא בת יותר מ 108"
+
+#: denizen/models.py:82
+msgid "They can't be younger than 18"
+msgstr "אין מצב שהיא צעירה מ 18"
+
+#: denizen/models.py:83
+msgid "ballot name"
+msgstr "שם הקלפי"
