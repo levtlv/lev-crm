@@ -52,7 +52,7 @@ msgstr "אסף"
 
 #: models.py:16
 msgid "no thanks"
-msgstr "לא צודה"
+msgstr "לא תודה"
 
 #: models.py:17
 msgid "willing"

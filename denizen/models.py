@@ -73,7 +73,7 @@ class Denizen(models.Model):
     education = models.BooleanField(
         _("Interested in education"), default=False)
     religion = models.BooleanField(_("Interested in religion"), default=False)
-    address = models.TextField(_("Address"), blank=True, default='')
+    address = models.CharField(_("Address"), max_length=40, blank=True, default='')
     notes = models.TextField(_("Notes"), blank=True, default='')
     zehut = models.CharField(_("zehut"), max_length=9, blank=True, null=True)
     birth_year = models.IntegerField(
@@ -81,6 +81,7 @@ class Denizen(models.Model):
             MinValueValidator(1910, _("they can't be more than 108 years old")),
             MaxValueValidator(2000, _("They can't be younger than 18"))])
     ballot = models.CharField(_("ballot name"), blank=True, max_length=30)
+    source = models.CharField(_("Source"), max_length=20)
 
     class Meta:
         verbose_name = _("Denizen")

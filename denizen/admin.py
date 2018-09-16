@@ -6,13 +6,13 @@ from denizen.models import Denizen
 
 @admin.register(Denizen)
 class DenizenAdmin(admin.ModelAdmin):
-    list_filter = ('hood', 'state', 'women_rights', 'participation', 'commons',
-                   'education', 'religion', 'election_day', 'second_ring',
-                   'home_meetup', 'palrig', 'digital')
-    list_display = ('name', 'state', 'hood')
+    search_fields = ('name', 'source')
+    list_filter = ('state', 'election_day', 'second_ring',
+                   'home_meetup', 'palrig', 'digital', 'hood')
+    list_display = ('name', 'phone', 'state', 'hood')
     fieldsets = (
         (None, {
-            'fields': ('name', 'phone', 'email', 'state', 'hood', 'address', 'zehut')
+            'fields': ('name', 'phone', 'email', 'state', 'hood', 'address', 'notes')
         }),
         (_('Intrests'), {
             'fields': ('women_rights', 'participation', 'commons', 'education', 'religion'),
@@ -20,4 +20,4 @@ class DenizenAdmin(admin.ModelAdmin):
         (_('Volunteering'), {
             'fields': ('election_day', 'second_ring', 'home_meetup', 'palrig', 'digital'),
         }),
-    ) 
+    )
