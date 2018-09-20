@@ -1,0 +1,4163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <name>שם הגן</name>
+            <Point id="2">
+                <coordinates>34.78176759999999,32.0852999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>גבעול</name>
+            <Point id="4">
+                <coordinates>34.784734,32.0848824,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>מנהלת אשכול</name>
+            <Point id="6">
+                <coordinates>34.784734,32.0848824,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>עלה</name>
+            <Point id="8">
+                <coordinates>34.784734,32.0848824,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>פרח</name>
+            <Point id="10">
+                <coordinates>34.784734,32.0848824,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>פרי</name>
+            <Point id="12">
+                <coordinates>34.784734,32.0848824,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>שורש</name>
+            <Point id="14">
+                <coordinates>34.784734,32.0848824,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17">
+            <name>בית הילד</name>
+            <Point id="16">
+                <coordinates>34.7939096,32.0887581,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19">
+            <name>ירח</name>
+            <Point id="18">
+                <coordinates>34.7847266,32.0925517,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21">
+            <name>מנהלת אשכול</name>
+            <Point id="20">
+                <coordinates>34.7847266,32.0925517,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>צדק</name>
+            <Point id="22">
+                <coordinates>34.7847266,32.0925517,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25">
+            <name>שביט</name>
+            <Point id="24">
+                <coordinates>34.7847266,32.0925517,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name>שבתאי</name>
+            <Point id="26">
+                <coordinates>34.7847266,32.0925517,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29">
+            <name>חרוב</name>
+            <Point id="28">
+                <coordinates>34.7934545,32.0866498,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="31">
+            <name>עינב</name>
+            <Point id="30">
+                <coordinates>34.7934545,32.0866498,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>כדור הארץ</name>
+            <Point id="32">
+                <coordinates>34.7760758,32.0909578,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="35">
+            <name>קרן שמש</name>
+            <Point id="34">
+                <coordinates>34.7760758,32.0909578,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37">
+            <name>נשיאים</name>
+            <Point id="36">
+                <coordinates>34.7905348,32.0855389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39">
+            <name>ענן</name>
+            <Point id="38">
+                <coordinates>34.7905348,32.0855389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41">
+            <name>עננה</name>
+            <Point id="40">
+                <coordinates>34.7905348,32.0855389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>ערפילים</name>
+            <Point id="42">
+                <coordinates>34.7905348,32.0855389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="45">
+            <name>קלז</name>
+            <Point id="44">
+                <coordinates>34.787031,32.0855689,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="47">
+            <name>אפרסמון</name>
+            <Point id="46">
+                <coordinates>34.789681,32.0939105,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49">
+            <name>פומלית</name>
+            <Point id="48">
+                <coordinates>34.789681,32.0939105,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51">
+            <name>לימונית</name>
+            <Point id="50">
+                <coordinates>34.7940849,32.0852154,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name>מנהלת אשכול</name>
+            <Point id="52">
+                <coordinates>34.7940849,32.0852154,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55">
+            <name>נענע</name>
+            <Point id="54">
+                <coordinates>34.7940849,32.0852154,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="57">
+            <name>קורנית</name>
+            <Point id="56">
+                <coordinates>34.7940849,32.0852154,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59">
+            <name>קינמון</name>
+            <Point id="58">
+                <coordinates>34.7940849,32.0852154,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61">
+            <name>רוזמרין</name>
+            <Point id="60">
+                <coordinates>34.7940849,32.0852154,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name>ריחן</name>
+            <Point id="62">
+                <coordinates>34.7940849,32.0852154,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65">
+            <name>מרום</name>
+            <Point id="64">
+                <coordinates>34.7970828,32.0873078,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67">
+            <name>פיסגה</name>
+            <Point id="66">
+                <coordinates>34.7970828,32.0873078,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69">
+            <name>צמרות</name>
+            <Point id="68">
+                <coordinates>34.7970828,32.0873078,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="71">
+            <name>הרדוף</name>
+            <Point id="70">
+                <coordinates>34.7912722,32.0948817,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73">
+            <name>דורון</name>
+            <Point id="72">
+                <coordinates>34.7942295,32.0910315,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75">
+            <name>שי</name>
+            <Point id="74">
+                <coordinates>34.7942295,32.0910315,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77">
+            <name>אורן</name>
+            <Point id="76">
+                <coordinates>34.7846252,32.0900923,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="79">
+            <name>ציפורן</name>
+            <Point id="78">
+                <coordinates>34.7849592,32.0906762,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81">
+            <name>איריס</name>
+            <Point id="80">
+                <coordinates>34.7939855,32.0929103,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83">
+            <name>בשמת</name>
+            <Point id="82">
+                <coordinates>34.7939855,32.0929103,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85">
+            <name>יקינתון</name>
+            <Point id="84">
+                <coordinates>34.7939855,32.0929103,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87">
+            <name>שושן</name>
+            <Point id="86">
+                <coordinates>34.7939855,32.0929103,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89">
+            <name>יסמין</name>
+            <Point id="88">
+                <coordinates>34.7878262,32.0856936,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91">
+            <name>נורית</name>
+            <Point id="90">
+                <coordinates>34.7878262,32.0856936,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93">
+            <name>הצומח</name>
+            <Point id="92">
+                <coordinates>34.8000534,32.0934688,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95">
+            <name>יהל</name>
+            <Point id="94">
+                <coordinates>34.8000534,32.0934688,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97">
+            <name>ילדי האור</name>
+            <Point id="96">
+                <coordinates>34.798576,32.0949693,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="99">
+            <name>מגל</name>
+            <Point id="98">
+                <coordinates>34.798576,32.0949693,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="101">
+            <name>כדור</name>
+            <Point id="100">
+                <coordinates>34.7998041,32.0937253,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103">
+            <name>מחבואים</name>
+            <Point id="102">
+                <coordinates>34.7998041,32.0937253,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="105">
+            <name>מנהלת אשכול</name>
+            <Point id="104">
+                <coordinates>34.7998041,32.0937253,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="107">
+            <name>עפיפון</name>
+            <Point id="106">
+                <coordinates>34.7998041,32.0937253,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="109">
+            <name>צבעים</name>
+            <Point id="108">
+                <coordinates>34.7998041,32.0937253,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="111">
+            <name>קוביות</name>
+            <Point id="110">
+                <coordinates>34.7998041,32.0937253,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="113">
+            <name>תופסת</name>
+            <Point id="112">
+                <coordinates>34.7998041,32.0937253,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="115">
+            <name>יצהר</name>
+            <Point id="114">
+                <coordinates>34.7987107,32.097727,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="117">
+            <name>תירוש</name>
+            <Point id="116">
+                <coordinates>34.7987107,32.097727,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="119">
+            <name>עלווה</name>
+            <Point id="118">
+                <coordinates>34.7999428,32.0941887,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="121">
+            <name>שקמה</name>
+            <Point id="120">
+                <coordinates>34.7999428,32.0941887,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="123">
+            <name>ניצנים</name>
+            <Point id="122">
+                <coordinates>34.8005122,32.0966406,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="125">
+            <name>בר</name>
+            <Point id="124">
+                <coordinates>34.77094659999999,32.0875706,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="127">
+            <name>דבש</name>
+            <Point id="126">
+                <coordinates>34.77094659999999,32.0875706,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="129">
+            <name>גוזלים</name>
+            <Point id="128">
+                <coordinates>34.7979582,32.0655508,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="131">
+            <name>זמיר</name>
+            <Point id="130">
+                <coordinates>34.7979582,32.0655508,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="133">
+            <name>כנרת</name>
+            <Point id="132">
+                <coordinates>34.7977283,32.0672992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="135">
+            <name>אלמוג</name>
+            <Point id="134">
+                <coordinates>34.8004864,32.0672795,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="137">
+            <name>עוגן</name>
+            <Point id="136">
+                <coordinates>34.8004864,32.0672795,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="139">
+            <name>הנסיך הקטן</name>
+            <Point id="138">
+                <coordinates>34.7962677,32.0687999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="141">
+            <name>סינדרלה</name>
+            <Point id="140">
+                <coordinates>34.7962677,32.0687999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="143">
+            <name>עמי ותמי</name>
+            <Point id="142">
+                <coordinates>34.7962677,32.0687999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="145">
+            <name>שלגיה</name>
+            <Point id="144">
+                <coordinates>34.7962677,32.0687999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="147">
+            <name>קהילה</name>
+            <Point id="146">
+                <coordinates>34.7689412,32.0484256,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="149">
+            <name>קהילה (גן שונשנים)</name>
+            <Point id="148">
+                <coordinates>34.7689412,32.0484256,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="151">
+            <name>הדפנה</name>
+            <Point id="150">
+                <coordinates>34.7686829,32.0469966,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="153">
+            <name>הדקל</name>
+            <Point id="152">
+                <coordinates>34.7686829,32.0469966,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="155">
+            <name>הזית</name>
+            <Point id="154">
+                <coordinates>34.7686829,32.0469966,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="157">
+            <name>הפיקוס</name>
+            <Point id="156">
+                <coordinates>34.7686829,32.0469966,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="159">
+            <name>הגפן</name>
+            <Point id="158">
+                <coordinates>34.8438871,32.1494446,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="161">
+            <name>אילן גלים</name>
+            <Point id="160">
+                <coordinates>34.8247663,32.1096731,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="163">
+            <name>ג'ירף</name>
+            <Point id="162">
+                <coordinates>34.8186432,32.110707,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="165">
+            <name>בית דניאל, קהילת להיר</name>
+            <Point id="164">
+                <coordinates>34.7917549,32.0960464,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="167">
+            <name>גן השלום</name>
+            <Point id="166">
+                <coordinates>34.7724825,32.0950055,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="169">
+            <name>גן פזית</name>
+            <Point id="168">
+                <coordinates>34.7734477,32.0950798,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="171">
+            <name>הגן שלנו - מעורבות</name>
+            <Point id="170">
+                <coordinates>34.77294560000001,32.0896519,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="173">
+            <name>יוסף חיים</name>
+            <Point id="172">
+                <coordinates>34.7964812,32.0476725,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="175">
+            <name>תפארת יוסף</name>
+            <Point id="174">
+                <coordinates>34.794941,32.0534528,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="177">
+            <name>יחד 1</name>
+            <Point id="176">
+                <coordinates>34.7923556,32.0564582,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="179">
+            <name>יחד 2</name>
+            <Point id="178">
+                <coordinates>34.7923556,32.0564582,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="181">
+            <name>יחד 3</name>
+            <Point id="180">
+                <coordinates>34.7923556,32.0564582,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="183">
+            <name>יחד 4</name>
+            <Point id="182">
+                <coordinates>34.7923556,32.0564582,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="185">
+            <name>יחד 5</name>
+            <Point id="184">
+                <coordinates>34.7923556,32.0564582,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="187">
+            <name>זיו</name>
+            <Point id="186">
+                <coordinates>34.7967544,32.0615708,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="189">
+            <name>יערה</name>
+            <Point id="188">
+                <coordinates>34.7967544,32.0615708,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="191">
+            <name>מכחול</name>
+            <Point id="190">
+                <coordinates>34.7967544,32.0615708,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="193">
+            <name>מנהלת אשכול</name>
+            <Point id="192">
+                <coordinates>34.7967544,32.0615708,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="195">
+            <name>מניפה</name>
+            <Point id="194">
+                <coordinates>34.7967544,32.0615708,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="197">
+            <name>צבעי הקשת</name>
+            <Point id="196">
+                <coordinates>34.7967544,32.0615708,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="199">
+            <name>הנרקיסים</name>
+            <Point id="198">
+                <coordinates>34.7929854,32.0618,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="201">
+            <name>חב&quot;ד</name>
+            <Point id="200">
+                <coordinates>34.7929854,32.0618,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="203">
+            <name>סביונים</name>
+            <Point id="202">
+                <coordinates>34.7929854,32.0618,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="205">
+            <name>סער</name>
+            <Point id="204">
+                <coordinates>34.7938064,32.0631402,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="207">
+            <name>תורה והוראה</name>
+            <Point id="206">
+                <coordinates>34.7938064,32.0631402,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="209">
+            <name>איילון</name>
+            <Point id="208">
+                <coordinates>34.7882233,32.056839,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="211">
+            <name>דן</name>
+            <Point id="210">
+                <coordinates>34.7882233,32.056839,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="213">
+            <name>פיתוחי חותם שער שמעון</name>
+            <Point id="212">
+                <coordinates>34.7927551,32.0599269,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="215">
+            <name>שער שמעון</name>
+            <Point id="214">
+                <coordinates>34.7943679,32.0550207,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="217">
+            <name>חברותא</name>
+            <Point id="216">
+                <coordinates>34.7890019,32.0586055,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="219">
+            <name>חבד תל אביב</name>
+            <Point id="218">
+                <coordinates>34.7900452,32.0585432,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="221">
+            <name>ברק</name>
+            <Point id="220">
+                <coordinates>34.80024179999999,32.0611901,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="223">
+            <name>תבור</name>
+            <Point id="222">
+                <coordinates>34.80024179999999,32.0611901,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="225">
+            <name>טל</name>
+            <Point id="224">
+                <coordinates>34.7999659,32.0615989,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="227">
+            <name>מטר</name>
+            <Point id="226">
+                <coordinates>34.7999659,32.0615989,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="229">
+            <name>אביב</name>
+            <Point id="228">
+                <coordinates>34.7936625,32.0546421,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="231">
+            <name>גוונים</name>
+            <Point id="230">
+                <coordinates>34.7936625,32.0546421,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="233">
+            <name>ציפורי</name>
+            <Point id="232">
+                <coordinates>34.7936625,32.0546421,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="235">
+            <name>שניר</name>
+            <Point id="234">
+                <coordinates>34.7936625,32.0546421,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="237">
+            <name>ירקון</name>
+            <Point id="236">
+                <coordinates>34.7982209,32.0543162,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="239">
+            <name>ויצ&quot;ו יד אליהו</name>
+            <Point id="238">
+                <coordinates>34.7988744,32.0543286,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="241">
+            <name>אילנות</name>
+            <Point id="240">
+                <coordinates>34.7979855,32.0558003,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="243">
+            <name>סביונים</name>
+            <Point id="242">
+                <coordinates>34.7979855,32.0558003,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="245">
+            <name>קונכיה</name>
+            <Point id="244">
+                <coordinates>34.745526,32.0331507,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="247">
+            <name>שביל החלב</name>
+            <Point id="246">
+                <coordinates>34.7701094,32.0559904,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="249">
+            <name>שובל</name>
+            <Point id="248">
+                <coordinates>34.7701094,32.0559904,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="251">
+            <name>צדף</name>
+            <Point id="250">
+                <coordinates>34.7483498,32.0312503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="253">
+            <name>ריף</name>
+            <Point id="252">
+                <coordinates>34.7483498,32.0312503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="255">
+            <name>אגם</name>
+            <Point id="254">
+                <coordinates>34.7597156,32.0465117,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="257">
+            <name>הפנינה</name>
+            <Point id="256">
+                <coordinates>34.7597156,32.0465117,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="259">
+            <name>כוכב הים</name>
+            <Point id="258">
+                <coordinates>34.7597156,32.0465117,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="261">
+            <name>מגדלור</name>
+            <Point id="260">
+                <coordinates>34.7500525,32.042636,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="263">
+            <name>סלע</name>
+            <Point id="262">
+                <coordinates>34.7500525,32.042636,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="265">
+            <name>יפה נוף</name>
+            <Point id="264">
+                <coordinates>34.7599447,32.0397542,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="267">
+            <name>מרכז שחף</name>
+            <Point id="266">
+                <coordinates>34.749413,32.0344124,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="269">
+            <name>ים</name>
+            <Point id="268">
+                <coordinates>34.7500447,32.0348559,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="271">
+            <name>תכלת</name>
+            <Point id="270">
+                <coordinates>34.7500447,32.0348559,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="273">
+            <name>גליל</name>
+            <Point id="272">
+                <coordinates>34.745526,32.0331507,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="275">
+            <name>דבש - אסל</name>
+            <Point id="274">
+                <coordinates>34.795831,32.070297,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="277">
+            <name>לימון - למון</name>
+            <Point id="276">
+                <coordinates>34.795831,32.070297,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="279">
+            <name>שמיים - סמאא</name>
+            <Point id="278">
+                <coordinates>34.795831,32.070297,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="281">
+            <name>אופק</name>
+            <Point id="280">
+                <coordinates>34.8065065,32.0504331,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="283">
+            <name>בת הים</name>
+            <Point id="282">
+                <coordinates>34.8065065,32.0504331,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="285">
+            <name>חופים</name>
+            <Point id="284">
+                <coordinates>34.7521216,32.0444513,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="287">
+            <name>הדיג</name>
+            <Point id="286">
+                <coordinates>34.758194,32.0504217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="289">
+            <name>המזח</name>
+            <Point id="288">
+                <coordinates>34.7582733,32.0505868,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="291">
+            <name>אנדרומדה</name>
+            <Point id="290">
+                <coordinates>34.7565101,32.0489264,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="293">
+            <name>חוף</name>
+            <Point id="292">
+                <coordinates>34.7565101,32.0489264,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="295">
+            <name>ירון</name>
+            <Point id="294">
+                <coordinates>34.75288520000001,32.0449777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="297">
+            <name>ידע</name>
+            <Point id="296">
+                <coordinates>34.75288520000001,32.0449777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="299">
+            <name>ירגזי</name>
+            <Point id="298">
+                <coordinates>34.75288520000001,32.0449777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="301">
+            <name>נמל</name>
+            <Point id="300">
+                <coordinates>34.7500525,32.042636,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="303">
+            <name>צוק</name>
+            <Point id="302">
+                <coordinates>34.7599447,32.0397542,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="305">
+            <name>שירת הים</name>
+            <Point id="304">
+                <coordinates>34.7610191,32.0392841,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="307">
+            <name>אפיק</name>
+            <Point id="306">
+                <coordinates>34.7573718,32.0338094,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="309">
+            <name>טורקיז</name>
+            <Point id="308">
+                <coordinates>34.7573718,32.0338094,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="311">
+            <name>הרובע</name>
+            <Point id="310">
+                <coordinates>34.755481,32.052885,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="313">
+            <name>נור</name>
+            <Point id="312">
+                <coordinates>34.78176759999999,32.0852999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="315">
+            <name>דקלים</name>
+            <Point id="314">
+                <coordinates>34.7580603,32.0464812,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="317">
+            <name>חולית</name>
+            <Point id="316">
+                <coordinates>34.7580603,32.0464812,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="319">
+            <name>חץ</name>
+            <Point id="318">
+                <coordinates>34.7580603,32.0464812,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="321">
+            <name>ים סוף</name>
+            <Point id="320">
+                <coordinates>34.7580603,32.0464812,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="323">
+            <name>כפות תמרים</name>
+            <Point id="322">
+                <coordinates>34.7580603,32.0464812,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="325">
+            <name>מנהלת אשכול</name>
+            <Point id="324">
+                <coordinates>34.7580603,32.0464812,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="327">
+            <name>נווה מדבר</name>
+            <Point id="326">
+                <coordinates>34.7580603,32.0464812,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="329">
+            <name>זהרון</name>
+            <Point id="328">
+                <coordinates>34.7563028,32.0357705,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="331">
+            <name>עץ הדעת</name>
+            <Point id="330">
+                <coordinates>34.7563028,32.0357705,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="333">
+            <name>גל</name>
+            <Point id="332">
+                <coordinates>34.7871982,32.1146194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="335">
+            <name>שונית</name>
+            <Point id="334">
+                <coordinates>34.7871982,32.1146194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="337">
+            <name>שלה נשי אגו&quot;י</name>
+            <Point id="336">
+                <coordinates>34.7573718,32.0338094,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="339">
+            <name>גן שלה</name>
+            <Point id="338">
+                <coordinates>34.7545072,32.0311858,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="341">
+            <name>הדרים</name>
+            <Point id="340">
+                <coordinates>34.785196,32.1015377,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="343">
+            <name>השיקמים</name>
+            <Point id="342">
+                <coordinates>34.785196,32.1015377,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="345">
+            <name>בננה</name>
+            <Point id="344">
+                <coordinates>34.785196,32.1015377,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="347">
+            <name>תות</name>
+            <Point id="346">
+                <coordinates>34.785196,32.1015377,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="349">
+            <name>חופש</name>
+            <Point id="348">
+                <coordinates>34.785196,32.1015377,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="351">
+            <name>חירות</name>
+            <Point id="350">
+                <coordinates>34.785196,32.1015377,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="353">
+            <name>אורנים</name>
+            <Point id="352">
+                <coordinates>34.79883179999999,32.1059966,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="355">
+            <name>ברושים</name>
+            <Point id="354">
+                <coordinates>34.79883179999999,32.1059966,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="357">
+            <name>תמרים</name>
+            <Point id="356">
+                <coordinates>34.79883179999999,32.1059966,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="359">
+            <name>פעמון</name>
+            <Point id="358">
+                <coordinates>34.796579,32.1043263,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="361">
+            <name>קשת</name>
+            <Point id="360">
+                <coordinates>34.796579,32.1043263,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="363">
+            <name>תו</name>
+            <Point id="362">
+                <coordinates>34.7913867,32.1046378,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="365">
+            <name>סול</name>
+            <Point id="364">
+                <coordinates>34.7913867,32.1046378,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="367">
+            <name>קרן</name>
+            <Point id="366">
+                <coordinates>34.7913867,32.1046378,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="369">
+            <name>ארן</name>
+            <Point id="368">
+                <coordinates>34.7899915,32.1082959,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="371">
+            <name>אורגן</name>
+            <Point id="370">
+                <coordinates>34.7910408,32.1112738,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="373">
+            <name>דו רה מי</name>
+            <Point id="372">
+                <coordinates>34.7910408,32.1112738,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="375">
+            <name>אגמון</name>
+            <Point id="374">
+                <coordinates>34.78558,32.11097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="377">
+            <name>אדמונית</name>
+            <Point id="376">
+                <coordinates>34.78558,32.11097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="379">
+            <name>אוכמנית</name>
+            <Point id="378">
+                <coordinates>34.78558,32.11097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="381">
+            <name>מנהלת אשכול</name>
+            <Point id="380">
+                <coordinates>34.78558,32.11097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="383">
+            <name>מנטה</name>
+            <Point id="382">
+                <coordinates>34.78558,32.11097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="385">
+            <name>נופים</name>
+            <Point id="384">
+                <coordinates>34.7934724,32.1058434,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="387">
+            <name>שמש</name>
+            <Point id="386">
+                <coordinates>34.7934724,32.1058434,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="389">
+            <name>טביטה</name>
+            <Point id="388">
+                <coordinates>34.7537192,32.0524975,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="391">
+            <name>שילה</name>
+            <Point id="390">
+                <coordinates>34.7535299,32.0402685,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="393">
+            <name>בלע&quot;ז ת&quot;א (780-4)</name>
+            <Point id="392">
+                <coordinates>34.776867,32.0676644,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="395">
+            <name>קלב</name>
+            <Point id="394">
+                <coordinates>34.775084,32.0653811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="397">
+            <name>חב&quot;ד</name>
+            <Point id="396">
+                <coordinates>34.7725246,32.0689167,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="399">
+            <name>גן א'- גן 470-19</name>
+            <Point id="398">
+                <coordinates>34.775084,32.0653811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="401">
+            <name>הדס</name>
+            <Point id="400">
+                <coordinates>34.7752994,32.0701136,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="403">
+            <name>ורד</name>
+            <Point id="402">
+                <coordinates>34.7752994,32.0701136,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="405">
+            <name>חצב</name>
+            <Point id="404">
+                <coordinates>34.7752994,32.0701136,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="407">
+            <name>כלנית</name>
+            <Point id="406">
+                <coordinates>34.7752994,32.0701136,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="409">
+            <name>לילך</name>
+            <Point id="408">
+                <coordinates>34.7752994,32.0701136,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="411">
+            <name>מנהלת אשכול</name>
+            <Point id="410">
+                <coordinates>34.7752994,32.0701136,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="413">
+            <name>נרקיס</name>
+            <Point id="412">
+                <coordinates>34.7752994,32.0701136,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="415">
+            <name>סביון</name>
+            <Point id="414">
+                <coordinates>34.7752994,32.0701136,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="417">
+            <name>רקפת</name>
+            <Point id="416">
+                <coordinates>34.7752994,32.0701136,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="419">
+            <name>תלתן</name>
+            <Point id="418">
+                <coordinates>34.7752994,32.0701136,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="421">
+            <name>תפוז</name>
+            <Point id="420">
+                <coordinates>34.7849619,32.0694116,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="423">
+            <name>תפוח</name>
+            <Point id="422">
+                <coordinates>34.7849619,32.0694116,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="425">
+            <name>אחוה</name>
+            <Point id="424">
+                <coordinates>34.772082,32.072899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="427">
+            <name>חברותא</name>
+            <Point id="426">
+                <coordinates>34.772082,32.072899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="429">
+            <name>חברים</name>
+            <Point id="428">
+                <coordinates>34.772082,32.072899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="431">
+            <name>ידידות</name>
+            <Point id="430">
+                <coordinates>34.772082,32.072899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="433">
+            <name>יחדיו</name>
+            <Point id="432">
+                <coordinates>34.772082,32.072899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="435">
+            <name>מנהלת אשכול</name>
+            <Point id="434">
+                <coordinates>34.772082,32.072899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="437">
+            <name>עמיתים</name>
+            <Point id="436">
+                <coordinates>34.772082,32.072899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="439">
+            <name>פסגות</name>
+            <Point id="438">
+                <coordinates>34.772082,32.072899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="441">
+            <name>צותא</name>
+            <Point id="440">
+                <coordinates>34.772082,32.072899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="443">
+            <name>דביר</name>
+            <Point id="442">
+                <coordinates>34.7842765,32.0767105,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="445">
+            <name>דולב</name>
+            <Point id="444">
+                <coordinates>34.7842765,32.0767105,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="447">
+            <name>אביב</name>
+            <Point id="446">
+                <coordinates>34.7760431,32.069879,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="449">
+            <name>אביבית</name>
+            <Point id="448">
+                <coordinates>34.7760431,32.069879,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="451">
+            <name>אביר</name>
+            <Point id="450">
+                <coordinates>34.7760431,32.069879,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="453">
+            <name>אבן חן</name>
+            <Point id="452">
+                <coordinates>34.7760431,32.069879,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="455">
+            <name>אדמוני</name>
+            <Point id="454">
+                <coordinates>34.7760431,32.069879,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="457">
+            <name>אורים</name>
+            <Point id="456">
+                <coordinates>34.7760431,32.069879,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="459">
+            <name>אמירים</name>
+            <Point id="458">
+                <coordinates>34.7760431,32.069879,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="461">
+            <name>אשל</name>
+            <Point id="460">
+                <coordinates>34.7760431,32.069879,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="463">
+            <name>מנהלת אשכול</name>
+            <Point id="462">
+                <coordinates>34.7760431,32.069879,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="465">
+            <name>הר ירושלים</name>
+            <Point id="464">
+                <coordinates>34.8001261,32.0462239,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="467">
+            <name>הר בשמת</name>
+            <Point id="466">
+                <coordinates>34.8047339,32.0453594,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="469">
+            <name>הר שגב</name>
+            <Point id="468">
+                <coordinates>34.8047339,32.0453594,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="471">
+            <name>הר יונתן</name>
+            <Point id="470">
+                <coordinates>34.802567,32.0494507,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="473">
+            <name>הר שיפון</name>
+            <Point id="472">
+                <coordinates>34.802567,32.0494507,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="475">
+            <name>הר גילון</name>
+            <Point id="474">
+                <coordinates>34.8007291,32.0480589,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="477">
+            <name>הר סיני</name>
+            <Point id="476">
+                <coordinates>34.8007291,32.0480589,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="479">
+            <name>הר ברכה</name>
+            <Point id="478">
+                <coordinates>34.8066017,32.0488782,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="481">
+            <name>הדר</name>
+            <Point id="480">
+                <coordinates>34.8187252,32.109803,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="483">
+            <name>פאר</name>
+            <Point id="482">
+                <coordinates>34.8187252,32.109803,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="485">
+            <name>תהילה</name>
+            <Point id="484">
+                <coordinates>34.8187252,32.109803,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="487">
+            <name>תפארת</name>
+            <Point id="486">
+                <coordinates>34.8187252,32.109803,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="489">
+            <name>פלפלון</name>
+            <Point id="488">
+                <coordinates>34.8149178,32.1151487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="491">
+            <name>צאלון</name>
+            <Point id="490">
+                <coordinates>34.8149178,32.1151487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="493">
+            <name>אקליפטוס</name>
+            <Point id="492">
+                <coordinates>34.8218904,32.1077414,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="495">
+            <name>דקל</name>
+            <Point id="494">
+                <coordinates>34.8218904,32.1077414,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="497">
+            <name>פרח עציץ</name>
+            <Point id="496">
+                <coordinates>34.8192395,32.1066086,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="499">
+            <name>תמר</name>
+            <Point id="498">
+                <coordinates>34.8192395,32.1066086,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="501">
+            <name>פיקוס</name>
+            <Point id="500">
+                <coordinates>34.8127517,32.1102947,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="503">
+            <name>צב</name>
+            <Point id="502">
+                <coordinates>34.8127517,32.1102947,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="505">
+            <name>אצטרובל</name>
+            <Point id="504">
+                <coordinates>34.8245171,32.1071998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="507">
+            <name>בלוט</name>
+            <Point id="506">
+                <coordinates>34.8245171,32.1071998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="509">
+            <name>מור</name>
+            <Point id="508">
+                <coordinates>34.8144384,32.117882,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="511">
+            <name>ויצו</name>
+            <Point id="510">
+                <coordinates>34.7730354,32.0759024,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="513">
+            <name>נעמ&quot;ת אפקה (נעמ&quot;ת למדן)</name>
+            <Point id="512">
+                <coordinates>34.8792763,32.0935147,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="515">
+            <name>פלא</name>
+            <Point id="514">
+                <coordinates>34.82653740000001,32.1097985,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="517">
+            <name>אגוז</name>
+            <Point id="516">
+                <coordinates>34.8231273,32.1185819,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="519">
+            <name>שקד</name>
+            <Point id="518">
+                <coordinates>34.8231273,32.1185819,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="521">
+            <name>אספרגוס</name>
+            <Point id="520">
+                <coordinates>34.82283110000001,32.1193037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="523">
+            <name>אצבעונית</name>
+            <Point id="522">
+                <coordinates>34.82283110000001,32.1193037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="525">
+            <name>דקלה</name>
+            <Point id="524">
+                <coordinates>34.8218445,32.1188488,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="527">
+            <name>תומר</name>
+            <Point id="526">
+                <coordinates>34.8218445,32.1188488,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="529">
+            <name>פרי הדר</name>
+            <Point id="528">
+                <coordinates>34.8230528,32.1142724,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="531">
+            <name>אדרת</name>
+            <Point id="530">
+                <coordinates>34.8430994,32.119027,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="533">
+            <name>כפיר</name>
+            <Point id="532">
+                <coordinates>34.8430994,32.119027,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="535">
+            <name>כנף</name>
+            <Point id="534">
+                <coordinates>34.8230091,32.1169627,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="537">
+            <name>פרפרים</name>
+            <Point id="536">
+                <coordinates>34.8230091,32.1169627,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="539">
+            <name>גפן</name>
+            <Point id="538">
+                <coordinates>34.8246164,32.1158009,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="541">
+            <name>צבר</name>
+            <Point id="540">
+                <coordinates>34.8246164,32.1158009,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="543">
+            <name>הגן של יעל</name>
+            <Point id="542">
+                <coordinates>34.78176759999999,32.0852999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="545">
+            <name>הגן של ריטה בע&quot;מ</name>
+            <Point id="544">
+                <coordinates>34.8273987,32.1101184,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="547">
+            <name>ניצן</name>
+            <Point id="546">
+                <coordinates>34.797057,32.1143992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="549">
+            <name>גשר</name>
+            <Point id="548">
+                <coordinates>34.8013012,32.1198914,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="551">
+            <name>נווה</name>
+            <Point id="550">
+                <coordinates>34.8013012,32.1198914,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="553">
+            <name>מנדולינה</name>
+            <Point id="552">
+                <coordinates>34.7995196,32.1174011,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="555">
+            <name>ענבל</name>
+            <Point id="554">
+                <coordinates>34.7995196,32.1174011,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="557">
+            <name>יובל</name>
+            <Point id="556">
+                <coordinates>34.7956165,32.115787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="559">
+            <name>צליל</name>
+            <Point id="558">
+                <coordinates>34.7956165,32.115787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="561">
+            <name>גילה</name>
+            <Point id="560">
+                <coordinates>34.7949868,32.1153771,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="563">
+            <name>רינה</name>
+            <Point id="562">
+                <coordinates>34.7949868,32.1153771,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="565">
+            <name>אביבים</name>
+            <Point id="564">
+                <coordinates>34.7971684,32.1187452,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="567">
+            <name>מנהלת אשכול</name>
+            <Point id="566">
+                <coordinates>34.7984778,32.1205611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="569">
+            <name>פסנתר</name>
+            <Point id="568">
+                <coordinates>34.7984778,32.1205611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="571">
+            <name>מיתר</name>
+            <Point id="570">
+                <coordinates>34.7984778,32.1205611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="573">
+            <name>שירה</name>
+            <Point id="572">
+                <coordinates>34.7984778,32.1205611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="575">
+            <name>בנות ציפורה</name>
+            <Point id="574">
+                <coordinates>34.8316132,32.0537216,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="577">
+            <name>שער שמעון (אור התורה)</name>
+            <Point id="576">
+                <coordinates>34.8066987,32.051336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="579">
+            <name>שער שמעון</name>
+            <Point id="578">
+                <coordinates>34.8019359,32.0545525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="581">
+            <name>נעמ&quot;ת (מעון השלום)</name>
+            <Point id="580">
+                <coordinates>34.7454853,32.0331153,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="583">
+            <name>הר הארי</name>
+            <Point id="582">
+                <coordinates>34.8072328,32.0556523,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="585">
+            <name>הר שלמה</name>
+            <Point id="584">
+                <coordinates>34.8072328,32.0556523,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="587">
+            <name>הר נבו</name>
+            <Point id="586">
+                <coordinates>34.8116505,32.0509355,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="589">
+            <name>הר תבור</name>
+            <Point id="588">
+                <coordinates>34.8116505,32.0509355,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="591">
+            <name>הר ארבל</name>
+            <Point id="590">
+                <coordinates>34.8114154,32.0522921,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="593">
+            <name>הר הכרמל</name>
+            <Point id="592">
+                <coordinates>34.8114154,32.0522921,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="595">
+            <name>הר אודם</name>
+            <Point id="594">
+                <coordinates>34.8111513,32.0525479,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="597">
+            <name>הר רביד</name>
+            <Point id="596">
+                <coordinates>34.8111513,32.0525479,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="599">
+            <name>הר ארגמן</name>
+            <Point id="598">
+                <coordinates>34.8071875,32.0552381,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="601">
+            <name>הר כביר</name>
+            <Point id="600">
+                <coordinates>34.8071875,32.0552381,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="603">
+            <name>נעמ&quot;ת נ.אליעזר</name>
+            <Point id="602">
+                <coordinates>34.8090299,32.0533299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="605">
+            <name>החמניות - חינוך מיוחד</name>
+            <Point id="604">
+                <coordinates>34.8316132,32.0537216,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="607">
+            <name>ראשית חכמה (רשי)</name>
+            <Point id="606">
+                <coordinates>34.763852,32.0432274,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="609">
+            <name>אוריין</name>
+            <Point id="608">
+                <coordinates>34.7643277,32.0429547,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="611">
+            <name>נהורה</name>
+            <Point id="610">
+                <coordinates>34.7643277,32.0429547,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="613">
+            <name>רעות</name>
+            <Point id="612">
+                <coordinates>34.7643277,32.0429547,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="615">
+            <name>אור</name>
+            <Point id="614">
+                <coordinates>34.7635681,32.039693,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="617">
+            <name>הקסמים</name>
+            <Point id="616">
+                <coordinates>34.7635681,32.039693,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="619">
+            <name>גיא</name>
+            <Point id="618">
+                <coordinates>34.7633199,32.0397446,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="621">
+            <name>כרמל</name>
+            <Point id="620">
+                <coordinates>34.7633199,32.0397446,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="623">
+            <name>רננה</name>
+            <Point id="622">
+                <coordinates>34.7690478,32.0386059,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="625">
+            <name>גן שלנו - חבשוש</name>
+            <Point id="624">
+                <coordinates>34.767512,32.0685903,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="627">
+            <name>תלתן</name>
+            <Point id="626">
+                <coordinates>34.7681696,32.0639516,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="629">
+            <name>שמש - שמס</name>
+            <Point id="628">
+                <coordinates>34.795831,32.070297,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="631">
+            <name>לביא</name>
+            <Point id="630">
+                <coordinates>34.7726599,32.0699134,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="633">
+            <name>פלא</name>
+            <Point id="632">
+                <coordinates>34.7754585,32.0699815,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="635">
+            <name>טל השחר</name>
+            <Point id="634">
+                <coordinates>34.7689064,32.0636701,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="637">
+            <name>כוכב השחר</name>
+            <Point id="636">
+                <coordinates>34.7689064,32.0636701,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="639">
+            <name>צבעוני</name>
+            <Point id="638">
+                <coordinates>34.77236010000001,32.0735876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="641">
+            <name>צמרת</name>
+            <Point id="640">
+                <coordinates>34.77236010000001,32.0735876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="643">
+            <name>רום</name>
+            <Point id="642">
+                <coordinates>34.77236010000001,32.0735876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="645">
+            <name>צוף</name>
+            <Point id="644">
+                <coordinates>34.7671939,32.0647604,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="647">
+            <name>קיפוד</name>
+            <Point id="646">
+                <coordinates>34.7671939,32.0647604,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="649">
+            <name>הר הגלבוע</name>
+            <Point id="648">
+                <coordinates>34.8119874,32.0456049,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="651">
+            <name>הר מוריה</name>
+            <Point id="650">
+                <coordinates>34.8119874,32.0456049,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="653">
+            <name>הר חרמון</name>
+            <Point id="652">
+                <coordinates>34.7983313,32.0514634,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="655">
+            <name>הר יהב</name>
+            <Point id="654">
+                <coordinates>34.7983313,32.0514634,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="657">
+            <name>הר כרכום</name>
+            <Point id="656">
+                <coordinates>34.7983313,32.0514634,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="659">
+            <name>הר ציון</name>
+            <Point id="658">
+                <coordinates>34.7983313,32.0514634,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="661">
+            <name>הר זיו</name>
+            <Point id="660">
+                <coordinates>34.8019359,32.0545525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="663">
+            <name>נהר הירדן</name>
+            <Point id="662">
+                <coordinates>34.8019359,32.0545525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="665">
+            <name>הר בוקר</name>
+            <Point id="664">
+                <coordinates>34.8072091,32.0479743,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="667">
+            <name>הר כנען</name>
+            <Point id="666">
+                <coordinates>34.8073222,32.0486285,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="669">
+            <name>הר צורים</name>
+            <Point id="668">
+                <coordinates>34.8073222,32.0486285,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="671">
+            <name>הר יהודה</name>
+            <Point id="670">
+                <coordinates>34.8092948,32.0464831,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="673">
+            <name>מנגו</name>
+            <Point id="672">
+                <coordinates>34.8099893,32.0483218,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="675">
+            <name>רענן</name>
+            <Point id="674">
+                <coordinates>34.8099893,32.0483218,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="677">
+            <name>גבעה</name>
+            <Point id="676">
+                <coordinates>34.7791218,32.0583998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="679">
+            <name>חורשה</name>
+            <Point id="678">
+                <coordinates>34.7791218,32.0583998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="681">
+            <name>יוגב</name>
+            <Point id="680">
+                <coordinates>34.7791218,32.0583998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="683">
+            <name>כורם</name>
+            <Point id="682">
+                <coordinates>34.7791218,32.0583998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="685">
+            <name>אירוסים</name>
+            <Point id="684">
+                <coordinates>34.7822608,32.0632906,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="687">
+            <name>ורדים</name>
+            <Point id="686">
+                <coordinates>34.7822608,32.0632906,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="689">
+            <name>שושנים</name>
+            <Point id="688">
+                <coordinates>34.7822608,32.0632906,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="691">
+            <name>ברבורים</name>
+            <Point id="690">
+                <coordinates>34.7780203,32.0576798,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="693">
+            <name>חסידות</name>
+            <Point id="692">
+                <coordinates>34.7780203,32.0576798,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="695">
+            <name>מנהלת אשכול</name>
+            <Point id="694">
+                <coordinates>34.7780203,32.0576798,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="697">
+            <name>סנוניות</name>
+            <Point id="696">
+                <coordinates>34.7780203,32.0576798,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="699">
+            <name>עגורים</name>
+            <Point id="698">
+                <coordinates>34.7780203,32.0576798,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="701">
+            <name>שחפים</name>
+            <Point id="700">
+                <coordinates>34.7780203,32.0576798,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="703">
+            <name>אגוי</name>
+            <Point id="702">
+                <coordinates>34.8389517,32.1160634,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="705">
+            <name>שמחת תורה</name>
+            <Point id="704">
+                <coordinates>34.8389517,32.1160634,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="707">
+            <name>הדף היומי</name>
+            <Point id="706">
+                <coordinates>34.8399846,32.1170905,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="709">
+            <name>אגוי</name>
+            <Point id="708">
+                <coordinates>34.8400917,32.1169902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="711">
+            <name>ינשוף</name>
+            <Point id="710">
+                <coordinates>34.8382879,32.1200157,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="713">
+            <name>יער</name>
+            <Point id="712">
+                <coordinates>34.8288493,32.1175937,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="715">
+            <name>קורן</name>
+            <Point id="714">
+                <coordinates>34.8288493,32.1175937,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="717">
+            <name>אדווה</name>
+            <Point id="716">
+                <coordinates>34.8340076,32.1126502,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="719">
+            <name>הוד</name>
+            <Point id="718">
+                <coordinates>34.8340076,32.1126502,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="721">
+            <name>עונות</name>
+            <Point id="720">
+                <coordinates>34.8355656,32.11242610000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="723">
+            <name>עלי כותרת</name>
+            <Point id="722">
+                <coordinates>34.8355656,32.11242610000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="725">
+            <name>טווס</name>
+            <Point id="724">
+                <coordinates>34.8405178,32.1212501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="727">
+            <name>פטל</name>
+            <Point id="726">
+                <coordinates>34.8415148,32.1197429,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="729">
+            <name>תות</name>
+            <Point id="728">
+                <coordinates>34.8415148,32.1197429,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="731">
+            <name>איילה</name>
+            <Point id="730">
+                <coordinates>34.8367576,32.1150424,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="733">
+            <name>נחל</name>
+            <Point id="732">
+                <coordinates>34.8367576,32.1150424,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="735">
+            <name>אגו&quot;י</name>
+            <Point id="734">
+                <coordinates>34.8389517,32.1160634,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="737">
+            <name>זריחה</name>
+            <Point id="736">
+                <coordinates>34.7856133,32.1143174,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="739">
+            <name>כוכבים</name>
+            <Point id="738">
+                <coordinates>34.7856133,32.1143174,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="741">
+            <name>לבנה</name>
+            <Point id="740">
+                <coordinates>34.7856133,32.1143174,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="743">
+            <name>רקיע</name>
+            <Point id="742">
+                <coordinates>34.7856133,32.1143174,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="745">
+            <name>שחק</name>
+            <Point id="744">
+                <coordinates>34.7856133,32.1143174,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="747">
+            <name>שמים</name>
+            <Point id="746">
+                <coordinates>34.7856133,32.1143174,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="749">
+            <name>דוגית</name>
+            <Point id="748">
+                <coordinates>34.79855060000001,32.0772926,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="751">
+            <name>סנפיר</name>
+            <Point id="750">
+                <coordinates>34.79855060000001,32.0772926,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="753">
+            <name>מפל</name>
+            <Point id="752">
+                <coordinates>34.7973796,32.0774208,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="755">
+            <name>פנינת הים</name>
+            <Point id="754">
+                <coordinates>34.7973796,32.0774208,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="757">
+            <name>חוגלה</name>
+            <Point id="756">
+                <coordinates>34.7977036,32.0773287,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="759">
+            <name>מנהלת אשכול</name>
+            <Point id="758">
+                <coordinates>34.7977036,32.0773287,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="761">
+            <name>נץ</name>
+            <Point id="760">
+                <coordinates>34.7977036,32.0773287,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="763">
+            <name>נשר</name>
+            <Point id="762">
+                <coordinates>34.7977036,32.0773287,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="765">
+            <name>שקנאי</name>
+            <Point id="764">
+                <coordinates>34.7977036,32.0773287,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="767">
+            <name>תוכי</name>
+            <Point id="766">
+                <coordinates>34.7977036,32.0773287,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="769">
+            <name>ימה</name>
+            <Point id="768">
+                <coordinates>34.7998919,32.0748275,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="771">
+            <name>מעין</name>
+            <Point id="770">
+                <coordinates>34.7998919,32.0748275,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="773">
+            <name>זורע</name>
+            <Point id="772">
+                <coordinates>34.7970061,32.0732734,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="775">
+            <name>פורח</name>
+            <Point id="774">
+                <coordinates>34.7970061,32.0732734,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="777">
+            <name>חב&quot;ד</name>
+            <Point id="776">
+                <coordinates>34.78176759999999,32.0852999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="779">
+            <name>פרר</name>
+            <Point id="778">
+                <coordinates>34.7531988,32.0522208,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="781">
+            <name>סנט מיכאל</name>
+            <Point id="780">
+                <coordinates>34.7528909,32.0511336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="783">
+            <name>טרה-סנטה</name>
+            <Point id="782">
+                <coordinates>34.7524877,32.0464438,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="785">
+            <name>תל אביב 10</name>
+            <Point id="784">
+                <coordinates>34.7472535,32.0359063,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="787">
+            <name>תל אביב 10</name>
+            <Point id="786">
+                <coordinates>34.7472535,32.0359063,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="789">
+            <name>בוסתן יאפא</name>
+            <Point id="788">
+                <coordinates>34.78176759999999,32.0852999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="791">
+            <name>תל אביב 11</name>
+            <Point id="790">
+                <coordinates>34.7472535,32.0359063,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="793">
+            <name>קכז</name>
+            <Point id="792">
+                <coordinates>34.7794704,32.0771304,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="795">
+            <name>ת&quot;א 25</name>
+            <Point id="794">
+                <coordinates>34.802543,32.0475377,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="797">
+            <name>קכח</name>
+            <Point id="796">
+                <coordinates>34.7895898,32.0471579,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="799">
+            <name>תל אביב 22</name>
+            <Point id="798">
+                <coordinates>34.7895898,32.0471579,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="801">
+            <name>נדנדה</name>
+            <Point id="800">
+                <coordinates>34.765806,32.0565164,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="803">
+            <name>סוס עץ</name>
+            <Point id="802">
+                <coordinates>34.765806,32.0565164,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="805">
+            <name>עלה ורד</name>
+            <Point id="804">
+                <coordinates>34.765806,32.0565164,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="807">
+            <name>דגן</name>
+            <Point id="806">
+                <coordinates>34.7686654,32.0602397,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="809">
+            <name>חמניה</name>
+            <Point id="808">
+                <coordinates>34.7686654,32.0602397,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="811">
+            <name>נוריות</name>
+            <Point id="810">
+                <coordinates>34.7686654,32.0602397,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="813">
+            <name>גן טליה</name>
+            <Point id="812">
+                <coordinates>34.8379577,32.1167525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="815">
+            <name>גן זהבה</name>
+            <Point id="814">
+                <coordinates>34.78176759999999,32.0852999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="817">
+            <name>אדיר</name>
+            <Point id="816">
+                <coordinates>34.8293159,32.1230223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="819">
+            <name>לפיד</name>
+            <Point id="818">
+                <coordinates>34.8293159,32.1230223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="821">
+            <name>צור</name>
+            <Point id="820">
+                <coordinates>34.8293159,32.1230223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="823">
+            <name>צהלה</name>
+            <Point id="822">
+                <coordinates>34.8355599,32.1242755,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="825">
+            <name>חצוצרה</name>
+            <Point id="824">
+                <coordinates>34.8352861,32.1263582,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="827">
+            <name>נבל</name>
+            <Point id="826">
+                <coordinates>34.8352861,32.1263582,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="829">
+            <name>עוגב</name>
+            <Point id="828">
+                <coordinates>34.8352861,32.1263582,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="831">
+            <name>פרדס</name>
+            <Point id="830">
+                <coordinates>34.8325482,32.1279798,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="833">
+            <name>שתיל</name>
+            <Point id="832">
+                <coordinates>34.8325482,32.1279798,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="835">
+            <name>חלום</name>
+            <Point id="834">
+                <coordinates>34.828291,32.1203899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="837">
+            <name>קסם</name>
+            <Point id="836">
+                <coordinates>34.828291,32.1203899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="839">
+            <name>אלון</name>
+            <Point id="838">
+                <coordinates>34.8312097,32.1243638,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="841">
+            <name>סיגלון</name>
+            <Point id="840">
+                <coordinates>34.8312097,32.1243638,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="843">
+            <name>עומרים</name>
+            <Point id="842">
+                <coordinates>34.8295958,32.121889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="845">
+            <name>שיבולים</name>
+            <Point id="844">
+                <coordinates>34.8295958,32.121889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="847">
+            <name>רמת אביב 1</name>
+            <Point id="846">
+                <coordinates>34.7965968,32.1343229,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="849">
+            <name>אמיר</name>
+            <Point id="848">
+                <coordinates>34.7944928,32.1255413,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="851">
+            <name>ברית</name>
+            <Point id="850">
+                <coordinates>34.7944928,32.1255413,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="853">
+            <name>גזית</name>
+            <Point id="852">
+                <coordinates>34.7944928,32.1255413,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="855">
+            <name>דור</name>
+            <Point id="854">
+                <coordinates>34.7944928,32.1255413,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="857">
+            <name>הדסים</name>
+            <Point id="856">
+                <coordinates>34.7944928,32.1255413,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="859">
+            <name>מנהלת אשכול</name>
+            <Point id="858">
+                <coordinates>34.7944928,32.1255413,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="861">
+            <name>אננס</name>
+            <Point id="860">
+                <coordinates>34.7934946,32.1287877,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="863">
+            <name>חשון</name>
+            <Point id="862">
+                <coordinates>34.7934946,32.1287877,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="865">
+            <name>גיטרה</name>
+            <Point id="864">
+                <coordinates>34.7984778,32.1205611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="867">
+            <name>ליבנה</name>
+            <Point id="866">
+                <coordinates>34.7984778,32.1205611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="869">
+            <name>עופר</name>
+            <Point id="868">
+                <coordinates>34.7984778,32.1205611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="871">
+            <name>עמית</name>
+            <Point id="870">
+                <coordinates>34.7984778,32.1205611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="873">
+            <name>עופרים</name>
+            <Point id="872">
+                <coordinates>34.7939691,32.1301685,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="875">
+            <name>חבצלת</name>
+            <Point id="874">
+                <coordinates>34.7974935,32.136079,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="877">
+            <name>אמנון ותמר</name>
+            <Point id="876">
+                <coordinates>34.785371,32.0818797,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="879">
+            <name>כרכום</name>
+            <Point id="878">
+                <coordinates>34.785371,32.0818797,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="881">
+            <name>מנהלת אשכול</name>
+            <Point id="880">
+                <coordinates>34.7856133,32.1143174,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="883">
+            <name>חצבים</name>
+            <Point id="882">
+                <coordinates>34.7725026,32.080713,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="885">
+            <name>חרציות</name>
+            <Point id="884">
+                <coordinates>34.7725026,32.080713,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="887">
+            <name>כלניות</name>
+            <Point id="886">
+                <coordinates>34.7725026,32.080713,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="889">
+            <name>לוטוסים</name>
+            <Point id="888">
+                <coordinates>34.7725026,32.080713,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="891">
+            <name>מנהלת אשכול</name>
+            <Point id="890">
+                <coordinates>34.7725026,32.080713,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="893">
+            <name>נרקיסים</name>
+            <Point id="892">
+                <coordinates>34.7725026,32.080713,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="895">
+            <name>רקפות</name>
+            <Point id="894">
+                <coordinates>34.7725026,32.080713,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="897">
+            <name>השראה</name>
+            <Point id="896">
+                <coordinates>34.7836344,32.0744706,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="899">
+            <name>תמונה</name>
+            <Point id="898">
+                <coordinates>34.7836344,32.0744706,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="901">
+            <name>רז</name>
+            <Point id="900">
+                <coordinates>34.78558,32.11097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="903">
+            <name>עומר</name>
+            <Point id="902">
+                <coordinates>34.595581,31.52269399999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="905">
+            <name>לחן</name>
+            <Point id="904">
+                <coordinates>34.7826904,32.0836687,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="907">
+            <name>פזמון</name>
+            <Point id="906">
+                <coordinates>34.7826904,32.0836687,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="909">
+            <name>חמציץ</name>
+            <Point id="908">
+                <coordinates>34.7857742,32.0828075,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="911">
+            <name>שושן צחור</name>
+            <Point id="910">
+                <coordinates>34.7857742,32.0828075,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="913">
+            <name>סלסלי כסף</name>
+            <Point id="912">
+                <coordinates>34.7792674,32.0777197,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="915">
+            <name>פעמוני גשם</name>
+            <Point id="914">
+                <coordinates>34.7792674,32.0777197,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="917">
+            <name>חרוז</name>
+            <Point id="916">
+                <coordinates>34.7867061,32.0784561,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="919">
+            <name>רמז</name>
+            <Point id="918">
+                <coordinates>34.7766446,32.0771689,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="921">
+            <name>אדום</name>
+            <Point id="920">
+                <coordinates>34.7761586,32.0805846,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="923">
+            <name>צהוב</name>
+            <Point id="922">
+                <coordinates>34.7761586,32.0805846,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="925">
+            <name>לשם</name>
+            <Point id="924">
+                <coordinates>34.7779705,32.0956262,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="927">
+            <name>נחל הירקון</name>
+            <Point id="926">
+                <coordinates>34.7779705,32.0956262,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="929">
+            <name>אגדות</name>
+            <Point id="928">
+                <coordinates>34.7742552,32.0917793,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="931">
+            <name>אותיות</name>
+            <Point id="930">
+                <coordinates>34.7742552,32.0917793,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="933">
+            <name>חרוזים</name>
+            <Point id="932">
+                <coordinates>34.7742552,32.0917793,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="935">
+            <name>מילים</name>
+            <Point id="934">
+                <coordinates>34.7742552,32.0917793,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="937">
+            <name>מנגינות</name>
+            <Point id="936">
+                <coordinates>34.7742552,32.0917793,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="939">
+            <name>מנהלת אשכול</name>
+            <Point id="938">
+                <coordinates>34.7742552,32.0917793,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="941">
+            <name>סיפורים</name>
+            <Point id="940">
+                <coordinates>34.7742552,32.0917793,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="943">
+            <name>צלילים</name>
+            <Point id="942">
+                <coordinates>34.7742552,32.0917793,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="945">
+            <name>שירים</name>
+            <Point id="944">
+                <coordinates>34.7742552,32.0917793,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="947">
+            <name>תווים</name>
+            <Point id="946">
+                <coordinates>34.7742552,32.0917793,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="949">
+            <name>מנהלת אשכול</name>
+            <Point id="948">
+                <coordinates>34.7755408,32.0899083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="951">
+            <name>סגלגל</name>
+            <Point id="950">
+                <coordinates>34.7755408,32.0899083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="953">
+            <name>שנהב</name>
+            <Point id="952">
+                <coordinates>34.7755408,32.0899083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="955">
+            <name>שני</name>
+            <Point id="954">
+                <coordinates>34.7755408,32.0899083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="957">
+            <name>תכול</name>
+            <Point id="956">
+                <coordinates>34.7755408,32.0899083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="959">
+            <name>דליה</name>
+            <Point id="958">
+                <coordinates>34.77634,32.0952117,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="961">
+            <name>לוטם</name>
+            <Point id="960">
+                <coordinates>34.77634,32.0952117,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="963">
+            <name>חמניות</name>
+            <Point id="962">
+                <coordinates>34.7817491,32.0889947,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="965">
+            <name>נועם</name>
+            <Point id="964">
+                <coordinates>34.7817491,32.0889947,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="967">
+            <name>אמבר</name>
+            <Point id="966">
+                <coordinates>34.7769333,32.0883593,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="969">
+            <name>עדי</name>
+            <Point id="968">
+                <coordinates>34.7769333,32.0883593,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="971">
+            <name>יהלום</name>
+            <Point id="970">
+                <coordinates>34.7767689,32.0880675,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="973">
+            <name>רביד</name>
+            <Point id="972">
+                <coordinates>34.7767689,32.0880675,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="975">
+            <name>השדרה</name>
+            <Point id="974">
+                <coordinates>34.7791798,32.0924812,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="977">
+            <name>מטמון</name>
+            <Point id="976">
+                <coordinates>34.7800486,32.092747,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="979">
+            <name>מרגנית</name>
+            <Point id="978">
+                <coordinates>34.7808418,32.0924542,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="981">
+            <name>ברקן</name>
+            <Point id="980">
+                <coordinates>34.7791669,32.0892815,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="983">
+            <name>בית חינוך לילד בשיטת מונטסורי</name>
+            <Point id="982">
+                <coordinates>34.8235103,32.1248042,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="985">
+            <name>ברקת</name>
+            <Point id="984">
+                <coordinates>34.773065,32.0433493,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="987">
+            <name>חושן</name>
+            <Point id="986">
+                <coordinates>34.773065,32.0433493,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="989">
+            <name>טופז</name>
+            <Point id="988">
+                <coordinates>34.773065,32.0433493,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="991">
+            <name>נוי</name>
+            <Point id="990">
+                <coordinates>34.773065,32.0433493,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="993">
+            <name>בית בטבע</name>
+            <Point id="992">
+                <coordinates>34.7773736,32.0425317,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="995">
+            <name>פרג</name>
+            <Point id="994">
+                <coordinates>34.79162609999999,32.0526387,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="997">
+            <name>בדולח</name>
+            <Point id="996">
+                <coordinates>34.7766426,32.0404637,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="999">
+            <name>שוהם</name>
+            <Point id="998">
+                <coordinates>34.7766426,32.0404637,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1001">
+            <name>אודם</name>
+            <Point id="1000">
+                <coordinates>34.78013900000001,32.0409975,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1003">
+            <name>חדוה</name>
+            <Point id="1002">
+                <coordinates>34.78013900000001,32.0409975,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1005">
+            <name>ספיר</name>
+            <Point id="1004">
+                <coordinates>34.78013900000001,32.0409975,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1007">
+            <name>הותיקים</name>
+            <Point id="1006">
+                <coordinates>34.7763314,32.0422683,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1009">
+            <name>שערי ציון</name>
+            <Point id="1008">
+                <coordinates>34.776464,32.0423963,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1011">
+            <name>ברסלב</name>
+            <Point id="1010">
+                <coordinates>34.7624914,32.0545419,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1013">
+            <name>גלגול</name>
+            <Point id="1012">
+                <coordinates>34.8288493,32.1175937,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1015">
+            <name>מחול</name>
+            <Point id="1014">
+                <coordinates>34.8288493,32.1175937,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1017">
+            <name>מנהלת אשכול</name>
+            <Point id="1016">
+                <coordinates>34.8288493,32.1175937,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1019">
+            <name>צעד</name>
+            <Point id="1018">
+                <coordinates>34.8288493,32.1175937,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1021">
+            <name>ריקוד</name>
+            <Point id="1020">
+                <coordinates>34.8288493,32.1175937,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1023">
+            <name>רן</name>
+            <Point id="1022">
+                <coordinates>34.8288493,32.1175937,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1025">
+            <name>ויצ&quot;ו אוניברסיטת ת&quot;א</name>
+            <Point id="1024">
+                <coordinates>34.8016851,32.1072426,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1027">
+            <name>בראשית</name>
+            <Point id="1026">
+                <coordinates>34.7953258,32.1093992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1029">
+            <name>פלג</name>
+            <Point id="1028">
+                <coordinates>34.8036913,32.1245163,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1031">
+            <name>אסף</name>
+            <Point id="1030">
+                <coordinates>34.8006602,32.1235687,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1033">
+            <name>ניסן</name>
+            <Point id="1032">
+                <coordinates>34.8006602,32.1235687,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1035">
+            <name>תשרי</name>
+            <Point id="1034">
+                <coordinates>34.8006602,32.1235687,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1037">
+            <name>אלמוגן</name>
+            <Point id="1036">
+                <coordinates>34.8071462,32.1252976,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1039">
+            <name>בוסתן</name>
+            <Point id="1038">
+                <coordinates>34.8071462,32.1252976,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1041">
+            <name>דגנית</name>
+            <Point id="1040">
+                <coordinates>34.8060348,32.1218955,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1043">
+            <name>חרצית</name>
+            <Point id="1042">
+                <coordinates>34.8060348,32.1218955,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1045">
+            <name>סיון</name>
+            <Point id="1044">
+                <coordinates>34.8060348,32.1218955,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1047">
+            <name>אלול</name>
+            <Point id="1046">
+                <coordinates>34.8005319,32.1256089,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1049">
+            <name>כסלו</name>
+            <Point id="1048">
+                <coordinates>34.8005319,32.1256089,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1051">
+            <name>תמוז</name>
+            <Point id="1050">
+                <coordinates>34.8005319,32.1256089,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1053">
+            <name>אילן</name>
+            <Point id="1052">
+                <coordinates>34.8002009,32.1256543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1055">
+            <name>דפנה</name>
+            <Point id="1054">
+                <coordinates>34.8002009,32.1256543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1057">
+            <name>ניר</name>
+            <Point id="1056">
+                <coordinates>34.8002009,32.1256543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1059">
+            <name>שדה</name>
+            <Point id="1058">
+                <coordinates>34.8002009,32.1256543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1061">
+            <name>ויצ&quot;ו</name>
+            <Point id="1060">
+                <coordinates>34.7998674,32.1256842,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1063">
+            <name>ויצו</name>
+            <Point id="1062">
+                <coordinates>34.8018246,32.1277199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1065">
+            <name>גלים</name>
+            <Point id="1064">
+                <coordinates>34.7919964,32.1169077,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1067">
+            <name>כוכב ים</name>
+            <Point id="1066">
+                <coordinates>34.7919964,32.1169077,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1069">
+            <name>צבי ים</name>
+            <Point id="1068">
+                <coordinates>34.7919964,32.1169077,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1071">
+            <name>אוצר</name>
+            <Point id="1070">
+                <coordinates>34.7857306,32.1142914,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1073">
+            <name>נוף</name>
+            <Point id="1072">
+                <coordinates>34.7857306,32.1142914,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1075">
+            <name>חליל</name>
+            <Point id="1074">
+                <coordinates>34.7928633,32.1214441,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1077">
+            <name>שיר</name>
+            <Point id="1076">
+                <coordinates>34.7928633,32.1214441,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1079">
+            <name>חן</name>
+            <Point id="1078">
+                <coordinates>34.7912613,32.1141087,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1081">
+            <name>מזמור</name>
+            <Point id="1080">
+                <coordinates>34.7912613,32.1141087,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1083">
+            <name>ערמונים</name>
+            <Point id="1082">
+                <coordinates>34.8292096,32.1101206,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1085">
+            <name>אתרוג</name>
+            <Point id="1084">
+                <coordinates>34.8303885,32.1102949,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1087">
+            <name>צפרירים</name>
+            <Point id="1086">
+                <coordinates>34.8264639,32.1152986,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1089">
+            <name>רביבים</name>
+            <Point id="1088">
+                <coordinates>34.8264639,32.1152986,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1091">
+            <name>רימון</name>
+            <Point id="1090">
+                <coordinates>34.7917767,32.04659,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1093">
+            <name>תאנה</name>
+            <Point id="1092">
+                <coordinates>34.7917767,32.04659,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1095">
+            <name>גפנים</name>
+            <Point id="1094">
+                <coordinates>34.7940757,32.0468422,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1097">
+            <name>כרמים</name>
+            <Point id="1096">
+                <coordinates>34.7940757,32.0468422,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1099">
+            <name>שדות</name>
+            <Point id="1098">
+                <coordinates>34.7940757,32.0468422,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1101">
+            <name>זית</name>
+            <Point id="1100">
+                <coordinates>34.7917767,32.04659,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1103">
+            <name>תבואה</name>
+            <Point id="1102">
+                <coordinates>34.7860559,32.0519652,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1105">
+            <name>תדהר</name>
+            <Point id="1104">
+                <coordinates>34.7860559,32.0519652,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1107">
+            <name>אגמים</name>
+            <Point id="1106">
+                <coordinates>34.7940961,32.0511165,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1109">
+            <name>אושר</name>
+            <Point id="1108">
+                <coordinates>34.7940961,32.0511165,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1111">
+            <name>חבר</name>
+            <Point id="1110">
+                <coordinates>34.7940961,32.0511165,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1113">
+            <name>ימים</name>
+            <Point id="1112">
+                <coordinates>34.7940961,32.0511165,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1115">
+            <name>מי נהר</name>
+            <Point id="1114">
+                <coordinates>34.7940961,32.0511165,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1117">
+            <name>מנהלת אשכול</name>
+            <Point id="1116">
+                <coordinates>34.7940961,32.0511165,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1119">
+            <name>מנהלת אשכול</name>
+            <Point id="1118">
+                <coordinates>34.7940961,32.0511165,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1121">
+            <name>מעיינות</name>
+            <Point id="1120">
+                <coordinates>34.7940961,32.0511165,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1123">
+            <name>משי</name>
+            <Point id="1122">
+                <coordinates>34.7940961,32.0511165,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1125">
+            <name>נהרות</name>
+            <Point id="1124">
+                <coordinates>34.7940961,32.0511165,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1127">
+            <name>פלגים</name>
+            <Point id="1126">
+                <coordinates>34.7940961,32.0511165,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1129">
+            <name>שגיא</name>
+            <Point id="1128">
+                <coordinates>34.7940961,32.0511165,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1131">
+            <name>תמיר</name>
+            <Point id="1130">
+                <coordinates>34.7940961,32.0511165,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1133">
+            <name>השיטה</name>
+            <Point id="1132">
+                <coordinates>34.7948149,32.0510246,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1135">
+            <name>חיטה</name>
+            <Point id="1134">
+                <coordinates>34.7948149,32.0510246,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1137">
+            <name>שיבולת</name>
+            <Point id="1136">
+                <coordinates>34.7948149,32.0510246,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1139">
+            <name>שעורה</name>
+            <Point id="1138">
+                <coordinates>34.7948149,32.0510246,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1141">
+            <name>קלח</name>
+            <Point id="1140">
+                <coordinates>34.7818328,32.0520034,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1143">
+            <name>ת&quot;א 15</name>
+            <Point id="1142">
+                <coordinates>34.7818328,32.0520034,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1145">
+            <name>תל אביב 16</name>
+            <Point id="1144">
+                <coordinates>34.7818328,32.0520034,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1147">
+            <name>ילדי חייל</name>
+            <Point id="1146">
+                <coordinates>34.7803787,32.0507844,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1149">
+            <name>חמה</name>
+            <Point id="1148">
+                <coordinates>34.7810843,32.0514087,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1151">
+            <name>ניצוץ</name>
+            <Point id="1150">
+                <coordinates>34.7810843,32.0514087,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1153">
+            <name>כוכב הצפון</name>
+            <Point id="1152">
+                <coordinates>34.7788731,32.0534137,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1155">
+            <name>זיק</name>
+            <Point id="1154">
+                <coordinates>34.7789159,32.0539719,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1157">
+            <name>עטרה</name>
+            <Point id="1156">
+                <coordinates>34.7789159,32.0539719,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1159">
+            <name>אסיף</name>
+            <Point id="1158">
+                <coordinates>34.7823188,32.0592289,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1161">
+            <name>קציר</name>
+            <Point id="1160">
+                <coordinates>34.7823188,32.0592289,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1163">
+            <name>סהר</name>
+            <Point id="1162">
+                <coordinates>34.7794789,32.0521564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1165">
+            <name>יאיר</name>
+            <Point id="1164">
+                <coordinates>34.781277,32.0562682,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1167">
+            <name>רותם</name>
+            <Point id="1166">
+                <coordinates>34.781277,32.0562682,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1169">
+            <name>זוהר</name>
+            <Point id="1168">
+                <coordinates>34.776397,32.0519305,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1171">
+            <name>שריג</name>
+            <Point id="1170">
+                <coordinates>34.776397,32.0519305,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1173">
+            <name>שרשרת</name>
+            <Point id="1172">
+                <coordinates>34.776397,32.0519305,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1175">
+            <name>כתר</name>
+            <Point id="1174">
+                <coordinates>34.7762057,32.0520272,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1177">
+            <name>קטר</name>
+            <Point id="1176">
+                <coordinates>34.7811961,32.0581866,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1179">
+            <name>רכבת</name>
+            <Point id="1178">
+                <coordinates>34.7811961,32.0581866,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1181">
+            <name>כוכב</name>
+            <Point id="1180">
+                <coordinates>34.7788896,32.0515696,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1183">
+            <name>נוגה</name>
+            <Point id="1182">
+                <coordinates>34.7788896,32.0515696,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1185">
+            <name>ויצו</name>
+            <Point id="1184">
+                <coordinates>34.7913867,32.1046378,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1187">
+            <name>סחלב</name>
+            <Point id="1186">
+                <coordinates>34.8119375,32.1239831,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1189">
+            <name>שקדיה</name>
+            <Point id="1188">
+                <coordinates>34.8142154,32.1225477,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1191">
+            <name>תפוז</name>
+            <Point id="1190">
+                <coordinates>34.8142154,32.1225477,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1193">
+            <name>אופיר</name>
+            <Point id="1192">
+                <coordinates>34.82107860000001,32.122929,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1195">
+            <name>ברקאי</name>
+            <Point id="1194">
+                <coordinates>34.82107860000001,32.122929,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1197">
+            <name>ענבר</name>
+            <Point id="1196">
+                <coordinates>34.82107860000001,32.122929,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1199">
+            <name>שחרית</name>
+            <Point id="1198">
+                <coordinates>34.82107860000001,32.122929,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1201">
+            <name>תבל</name>
+            <Point id="1200">
+                <coordinates>34.82107860000001,32.122929,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1203">
+            <name>בת גלים</name>
+            <Point id="1202">
+                <coordinates>34.8293159,32.1230223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1205">
+            <name>רביב</name>
+            <Point id="1204">
+                <coordinates>34.8293159,32.1230223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1207">
+            <name>אורה</name>
+            <Point id="1206">
+                <coordinates>34.7939691,32.1301685,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1209">
+            <name>מרגלית</name>
+            <Point id="1208">
+                <coordinates>34.7917767,32.04659,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1211">
+            <name>נמש</name>
+            <Point id="1210">
+                <coordinates>34.7917767,32.04659,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1213">
+            <name>רם</name>
+            <Point id="1212">
+                <coordinates>34.8036913,32.1245163,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1215">
+            <name>גוזל</name>
+            <Point id="1214">
+                <coordinates>34.8287465,32.1091188,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1217">
+            <name>טבת</name>
+            <Point id="1216">
+                <coordinates>34.8287465,32.1091188,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1219">
+            <name>גן לירון</name>
+            <Point id="1218">
+                <coordinates>34.7681965,32.0643806,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1221">
+            <name>אגמון</name>
+            <Point id="1220">
+                <coordinates>34.8119375,32.1239831,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1223">
+            <name>אדרית</name>
+            <Point id="1222">
+                <coordinates>34.8119375,32.1239831,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1225">
+            <name>חופית</name>
+            <Point id="1224">
+                <coordinates>34.797057,32.1143992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1227">
+            <name>אגס</name>
+            <Point id="1226">
+                <coordinates>34.8292096,32.1101206,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1229">
+            <name>גבע</name>
+            <Point id="1228">
+                <coordinates>34.8292096,32.1101206,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1231">
+            <name>ציפור שיר</name>
+            <Point id="1230">
+                <coordinates>34.809317,32.0582035,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1233">
+            <name>קנרית</name>
+            <Point id="1232">
+                <coordinates>34.809317,32.0582035,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1235">
+            <name>שחף</name>
+            <Point id="1234">
+                <coordinates>34.809317,32.0582035,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1237">
+            <name>גן טופ</name>
+            <Point id="1236">
+                <coordinates>34.7905046,32.1114669,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1239">
+            <name>סומק</name>
+            <Point id="1238">
+                <coordinates>34.8001261,32.0462239,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1241">
+            <name>אנקור</name>
+            <Point id="1240">
+                <coordinates>34.7974563,32.0672873,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1243">
+            <name>רגב</name>
+            <Point id="1242">
+                <coordinates>34.8242535,32.125498,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1245">
+            <name>חסידה</name>
+            <Point id="1244">
+                <coordinates>34.8003843,32.123292,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1247">
+            <name>יסעור</name>
+            <Point id="1246">
+                <coordinates>34.7742552,32.0917793,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1249">
+            <name>חצב</name>
+            <Point id="1248">
+                <coordinates>34.8276985,32.10915560000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1251">
+            <name>כלנית</name>
+            <Point id="1250">
+                <coordinates>34.8276985,32.10915560000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1253">
+            <name>מנהלת אשכול</name>
+            <Point id="1252">
+                <coordinates>34.8276985,32.10915560000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1255">
+            <name>נרקיס</name>
+            <Point id="1254">
+                <coordinates>34.8276985,32.10915560000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1257">
+            <name>רקפת</name>
+            <Point id="1256">
+                <coordinates>34.8276985,32.10915560000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1259">
+            <name>סנונית</name>
+            <Point id="1258">
+                <coordinates>34.7979582,32.0655508,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1261">
+            <name>פרחי שדה</name>
+            <Point id="1260">
+                <coordinates>34.7968903,32.0627242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1263">
+            <name>הגן שלנו</name>
+            <Point id="1262">
+                <coordinates>34.7647196,32.0683389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1265">
+            <name>עורבני</name>
+            <Point id="1264">
+                <coordinates>34.7921077,32.0790936,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1267">
+            <name>פשוש</name>
+            <Point id="1266">
+                <coordinates>34.7921077,32.0790936,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1269">
+            <name>גורן</name>
+            <Point id="1268">
+                <coordinates>34.7909336,32.0786035,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1271">
+            <name>דוכיפת</name>
+            <Point id="1270">
+                <coordinates>34.799179,32.0560088,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1273">
+            <name>נשר</name>
+            <Point id="1272">
+                <coordinates>34.799179,32.0560088,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1275">
+            <name>נופך</name>
+            <Point id="1274">
+                <coordinates>34.7811739,32.0458113,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1277">
+            <name>הצוללת</name>
+            <Point id="1276">
+                <coordinates>34.78176759999999,32.0852999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1279">
+            <name>נרקיס</name>
+            <Point id="1278">
+                <coordinates>34.7507637,32.040608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1281">
+            <name>בראשית</name>
+            <Point id="1280">
+                <coordinates>34.791993,32.079547,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1283">
+            <name>סלעית</name>
+            <Point id="1282">
+                <coordinates>34.7938064,32.0631402,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1285">
+            <name>הצבי</name>
+            <Point id="1284">
+                <coordinates>34.810238,32.0566318,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1287">
+            <name>בלון</name>
+            <Point id="1286">
+                <coordinates>34.8102247,32.0571038,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1289">
+            <name>עגור</name>
+            <Point id="1288">
+                <coordinates>34.8103764,32.0487434,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1291">
+            <name>תלם</name>
+            <Point id="1290">
+                <coordinates>34.8103764,32.0487434,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1293">
+            <name>דיה</name>
+            <Point id="1292">
+                <coordinates>34.7927551,32.0599269,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1295">
+            <name>זהבן</name>
+            <Point id="1294">
+                <coordinates>34.7927551,32.0599269,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1297">
+            <name>אור השחר</name>
+            <Point id="1296">
+                <coordinates>34.7924526,32.0526692,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1299">
+            <name>ברוש</name>
+            <Point id="1298">
+                <coordinates>34.7924526,32.0526692,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1301">
+            <name>שלדג</name>
+            <Point id="1300">
+                <coordinates>34.7886583,32.0571819,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1303">
+            <name>כסיף</name>
+            <Point id="1302">
+                <coordinates>34.7597156,32.0465117,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1305">
+            <name>חוני מעגל</name>
+            <Point id="1304">
+                <coordinates>34.7844694,32.0917149,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1307">
+            <name>אגס</name>
+            <Point id="1306">
+                <coordinates>34.7849619,32.0694116,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1309">
+            <name>מנהלת אשכול</name>
+            <Point id="1308">
+                <coordinates>34.7849619,32.0694116,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1311">
+            <name>תות</name>
+            <Point id="1310">
+                <coordinates>34.7849619,32.0694116,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1313">
+            <name>כחל</name>
+            <Point id="1312">
+                <coordinates>34.7913867,32.1046378,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1315">
+            <name>דרור</name>
+            <Point id="1314">
+                <coordinates>34.7656048,32.0655666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1317">
+            <name>חורש</name>
+            <Point id="1316">
+                <coordinates>34.7656048,32.0655666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1319">
+            <name>טסית</name>
+            <Point id="1318">
+                <coordinates>34.7656048,32.0655666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1321">
+            <name>נחליאלי</name>
+            <Point id="1320">
+                <coordinates>34.7656048,32.0655666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1323">
+            <name>קוקוטל</name>
+            <Point id="1322">
+                <coordinates>34.7656048,32.0655666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1325">
+            <name>שרשיר</name>
+            <Point id="1324">
+                <coordinates>34.7656048,32.0655666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1327">
+            <name>מנדרין</name>
+            <Point id="1326">
+                <coordinates>34.7887675,32.0684556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1329">
+            <name>זמר</name>
+            <Point id="1328">
+                <coordinates>34.8000454,32.1092566,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1331">
+            <name>נגינה</name>
+            <Point id="1330">
+                <coordinates>34.8000454,32.1092566,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1333">
+            <name>רון</name>
+            <Point id="1332">
+                <coordinates>34.8000454,32.1092566,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1335">
+            <name>תזמורת</name>
+            <Point id="1334">
+                <coordinates>34.8000454,32.1092566,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1337">
+            <name>נחשון</name>
+            <Point id="1336">
+                <coordinates>34.7972607,32.1192758,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1339">
+            <name>פקאן</name>
+            <Point id="1338">
+                <coordinates>34.807531,32.05521,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1341">
+            <name>פרחי אביב</name>
+            <Point id="1340">
+                <coordinates>34.76852700000001,32.0591558,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1343">
+            <name>מפרש</name>
+            <Point id="1342">
+                <coordinates>34.7684257,32.0590248,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1345">
+            <name>צופית</name>
+            <Point id="1344">
+                <coordinates>34.7982209,32.0543162,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1347">
+            <name>פרפר</name>
+            <Point id="1346">
+                <coordinates>34.7595813,32.0398686,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1349">
+            <name>אגמית</name>
+            <Point id="1348">
+                <coordinates>34.7582519,32.0342693,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1351">
+            <name>סיגלית</name>
+            <Point id="1350">
+                <coordinates>34.8355656,32.11242610000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1353">
+            <name>ברבור</name>
+            <Point id="1352">
+                <coordinates>34.7500447,32.0348559,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1355">
+            <name>נקר</name>
+            <Point id="1354">
+                <coordinates>34.7500447,32.0348559,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1357">
+            <name>יונה</name>
+            <Point id="1356">
+                <coordinates>34.796498,32.060014,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1359">
+            <name>משעול</name>
+            <Point id="1358">
+                <coordinates>34.796498,32.060014,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1361">
+            <name>אייר</name>
+            <Point id="1360">
+                <coordinates>34.8005319,32.1256089,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1363">
+            <name>חרצית</name>
+            <Point id="1362">
+                <coordinates>34.8254007,32.1157314,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1365">
+            <name>כלנית</name>
+            <Point id="1364">
+                <coordinates>34.8254007,32.1157314,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1367">
+            <name>מנהלת אשכול</name>
+            <Point id="1366">
+                <coordinates>34.8254007,32.1157314,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1369">
+            <name>נרקיס</name>
+            <Point id="1368">
+                <coordinates>34.8254007,32.1157314,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1371">
+            <name>צבעוני</name>
+            <Point id="1370">
+                <coordinates>34.8254007,32.1157314,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1373">
+            <name>בז</name>
+            <Point id="1372">
+                <coordinates>34.7643943,32.0431048,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1375">
+            <name>דגיג</name>
+            <Point id="1374">
+                <coordinates>34.7504359,32.0433459,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1377">
+            <name>קקדו</name>
+            <Point id="1376">
+                <coordinates>34.8208069,32.1105163,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1379">
+            <name>יונק הדבש</name>
+            <Point id="1378">
+                <coordinates>34.7537733,32.0346553,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1381">
+            <name>עפרוני</name>
+            <Point id="1380">
+                <coordinates>34.7537733,32.0346553,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1383">
+            <name>אנפה</name>
+            <Point id="1382">
+                <coordinates>34.7974935,32.136079,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1385">
+            <name>גלי ים</name>
+            <Point id="1384">
+                <coordinates>34.7690478,32.0386059,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1387">
+            <name>בבלי</name>
+            <Point id="1386">
+                <coordinates>34.800737,32.0986856,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

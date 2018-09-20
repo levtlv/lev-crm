@@ -1,22 +1,17 @@
 [[source]]
-
 url = "https://pypi.python.org/simple"
 name = "pypi"
 verify_ssl = true
 
-
 [dev-packages]
 
-
-
 [requires]
-
-python_version = "3.6.6"
-
+python_version = "3.6.5"
 
 [packages]
-
-django = "*"
+Django = "*"
 django-csvimport = {git = "https://github.com/xavierlesa/django-csvimport.git"}
 gunicorn = "*"
 django-heroku = "*"
+googlemaps = "*"
+simplekml = "*"
