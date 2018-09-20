@@ -4,7 +4,7 @@
   <head>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
-    <title>KML Click Capture Sample</title>
+    <title>מוסדות חינוך בתל אביב</title>
     <style>
       html, body {
         height: 370px;
@@ -12,29 +12,29 @@
         margin: 0;
         }
       #map {
-       height: 360px;
-       width: 300px;
+       height: 500px;
+       width: 70%;
        overflow: hidden;
-       float: left;
+       float: right;
        border: thin solid #333;
        }
       #capture {
        height: 360px;
-       width: 480px;
+       width: 20%;
        overflow: hidden;
-       float: left;
+       float: right;
        background-color: #ECECFB;
        border: thin solid #333;
        border-left: none;
        }
     </style>
   </head>
-  <body>
+  <body dir="rtl">
     <div id="map"></div>
     <div id="capture"></div>
     <script>
       var map;
-      var src = '{% static "edu.kml" %}'
+      var src = 'https://lev-crm.herokuapp.com/static/edu.kml';
 
       function initMap() {
         map = new google.maps.Map(document.getElementById('map'), {
@@ -56,7 +56,7 @@
       }
     </script>
     <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD0d0qCzvALRaBWdVdgAgrLucodjgWNu0Y&callback=initMap">
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDW1RIdHnV35WBo6NSsE_5zHRRWIcsiT70&language=he&callback=initMap">
     </script>
   </body>
 </html>
