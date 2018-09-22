@@ -10,7 +10,7 @@ class DenizenAdmin(admin.ModelAdmin):
     list_filter = ('state', 'election_day', 'second_ring',
                    'home_meetup', 'meetup_guest', 'palrig', 'digital',
                    'call_center', 'field', 'hood')
-    list_display = ('name', 'phone', 'state', 'hood')
+    list_display = ('id', 'name', 'phone', 'state', 'hood')
     fieldsets = (
         (None, {
             'fields': ('name', 'phone', 'email', 'state', 'hood', 'address',
