@@ -103,23 +103,24 @@ class Denizen(models.Model):
     def save(self):
         #TODO: DRY !!!
         if self.election_day.lower() == 'x':
-            self.election_day == 'W'
+            self.election_day = 'W'
         if self.second_ring.lower() == 'x':
-            self.second_ring == 'W'
+            self.second_ring = 'W'
         if self.home_meetup.lower() == 'x':
-            self.home_meetup == 'W'
+            self.home_meetup = 'W'
         if self.palrig.lower() == 'x':
-            self.palrig == 'W'
+            self.palrig = 'W'
         if self.digital.lower() == 'x':
-            self.digital == 'W'
+            self.digital = 'W'
         if self.election_day.lower() == 'x':
-            self.election_day == 'W'
+            self.election_day = 'W'
         if self.election_day.lower() == 'x':
-            self.election_day == 'W'
+            self.election_day = 'W'
         if self.field.lower() == 'x':
-            self.field == 'W'
+            self.field = 'W'
         if self.meetup_guest.lower() == 'x':
-            self.meetup_guest == 'W'
+            self.meetup_guest = 'W'
+        super().save()
 
     def __str__(self):
         return self.name
