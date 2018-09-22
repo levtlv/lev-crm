@@ -4,12 +4,15 @@ from django.utils.translation import gettext as _
 
 # Create your models here.
 STATE_CHOICES = (
-    (None, _('new')),
+    ('N', _('new')),
+    ('!', _('for zippi')),
+    ('W', _('walk in')),
     ('S', _('supporter')),
     ('U', _('undecided')),
     ('H', _('huldai')),
     ('Z', _('zamir')),
     ('A', _('assaf Harel')),
+    ('O', _('other')),
      )
 
 VOLUNTEER_CHOICES = (
@@ -49,9 +52,11 @@ class Denizen(models.Model):
         _("father's name"), max_length=20, null=True, blank=True)
 
     phone = models.CharField(_("phone"), max_length=30)
+    edu_foundations = models.CharField(_("Education Foundations"), max_length=60, default='')
     email = models.EmailField(_("email"), null=True, blank=True)
     state = models.CharField(
-        _("state"), blank=True, max_length=1, null=True, choices=STATE_CHOICES)
+        _("state"), blank=True, max_length=1, null=True, choices=STATE_CHOICES,
+        default='N')
     hood = models.CharField(_("Neighborhood"),
         blank=True, max_length=32, choices=HOOD_CHOICES)
     election_day = models.CharField(_("willing to voounteer on election day"),
@@ -62,7 +67,13 @@ class Denizen(models.Model):
                                    blank=True, max_length=1, choices=VOLUNTEER_CHOICES)
     palrig = models.CharField(_("willing to hang a palrig"),
                               blank=True, max_length=1, choices=VOLUNTEER_CHOICES)
+    call_center = models.CharField(_("willing to be a call center volounteer"),
+                               blank=True, max_length=1, choices=VOLUNTEER_CHOICES)
+    field = models.CharField(_("willing to be a volounteer in the field"),
+                               blank=True, max_length=1, choices=VOLUNTEER_CHOICES)
     digital = models.CharField(_("willing to  digital volounteer"),
+                               blank=True, max_length=1, choices=VOLUNTEER_CHOICES)
+    meetup_guest = models.CharField(_("want to be a guest in a meetup"),
                                blank=True, max_length=1, choices=VOLUNTEER_CHOICES)
     women_rights = models.BooleanField(
         _("Interested in women rights"), default=False)
@@ -82,10 +93,32 @@ class Denizen(models.Model):
             MaxValueValidator(2000, _("They can't be younger than 18"))])
     ballot = models.CharField(_("ballot name"), blank=True, max_length=30)
     source = models.CharField(_("Source"), max_length=20)
+    whatever = models.CharField(_("Whatever"), max_length=60, default='')
 
     class Meta:
         verbose_name = _("Denizen")
         verbose_name_plural = _("Denizens")
+
+    def save(self):
+        #TODO: DRY !!!
+        if self.election_day.lower() == 'x':
+            self.election_day == 'W'
+        if self.second_ring.lower() == 'x':
+            self.second_ring == 'W'
+        if self.home_meetup.lower() == 'x':
+            self.home_meetup == 'W'
+        if self.palrig.lower() == 'x':
+            self.palrig == 'W'
+        if self.digital.lower() == 'x':
+            self.digital == 'W'
+        if self.election_day.lower() == 'x':
+            self.election_day == 'W'
+        if self.election_day.lower() == 'x':
+            self.election_day == 'W'
+        if self.field.lower() == 'x':
+            self.field == 'W'
+        if self.meetup_guest.lower() == 'x':
+            self.meetup_guest == 'W'
 
     def __str__(self):
         return self.name

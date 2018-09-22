@@ -3,12 +3,11 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-09-15 15:13+0000\n"
+"POT-Creation-Date: 2018-09-22 08:34+0000\n"
 "PO-Revision-Date: 2018-09-15 18:13+0300\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,146 +17,185 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: admin.py:17
+#: denizen/admin.py:17
 msgid "Intrests"
 msgstr "תחומי ענין"
 
-#: admin.py:20
+#: denizen/admin.py:20
 msgid "Volunteering"
 msgstr "התנדבות"
 
-#: models.py:7
+#: denizen/models.py:7
 msgid "new"
 msgstr "חדש"
 
-#: models.py:8
+#: denizen/models.py:8
+msgid "for zippi"
+msgstr "לטיפולה של ציפי"
+
+#: denizen/models.py:9
+msgid "walk in"
+msgstr "פנה אלינו"
+
+#: denizen/models.py:10
 msgid "supporter"
 msgstr "תומכת"
 
-#: models.py:9
+#: denizen/models.py:11
 msgid "undecided"
 msgstr "מתלבטת"
 
-#: models.py:10
+#: denizen/models.py:12
 msgid "huldai"
 msgstr "חולדאי"
 
-#: models.py:11
+#: denizen/models.py:13
 msgid "zamir"
 msgstr "זמיר"
 
-#: models.py:12
+#: denizen/models.py:14
 msgid "assaf Harel"
 msgstr "אסף"
 
-#: models.py:16
+#: denizen/models.py:15
+msgid "other"
+msgstr "מתנגד בכללי"
+
+#: denizen/models.py:19
 msgid "no thanks"
 msgstr "לא תודה"
 
-#: models.py:17
+#: denizen/models.py:20
 msgid "willing"
 msgstr "בכיף"
 
-#: models.py:18
+#: denizen/models.py:21
 msgid "fullfilled"
 msgstr "בוצע"
 
-#: models.py:47
+#: denizen/models.py:50
 msgid "name"
 msgstr "שם"
 
-#: models.py:49
+#: denizen/models.py:52
 msgid "father's name"
 msgstr "שם האב"
 
-#: models.py:51
+#: denizen/models.py:54
 msgid "phone"
 msgstr "טלפון"
 
-#: models.py:52
+#: denizen/models.py:55
+msgid "Education Foundations"
+msgstr "מוסדות חינוך"
+
+#: denizen/models.py:56
 msgid "email"
 msgstr "דואל"
 
-#: models.py:54
+#: denizen/models.py:58
 msgid "state"
 msgstr "מצב"
 
-#: models.py:55
+#: denizen/models.py:60
 msgid "Neighborhood"
 msgstr "שכונה"
 
-#: models.py:57
+#: denizen/models.py:62
 msgid "willing to voounteer on election day"
 msgstr "מוכן להתנדב ביום בחירות"
 
-#: models.py:59
+#: denizen/models.py:64
 msgid "willing to be in the second ring"
 msgstr "מוכל להיות במעגל השני"
 
-#: models.py:61
+#: denizen/models.py:66
 msgid "willing to host a meetup"
 msgstr "מוכן לארח מפגש"
 
-#: models.py:63
+#: denizen/models.py:68
 msgid "willing to hang a palrig"
 msgstr "מוכן לתלות פאלריג"
 
-#: models.py:65
+#: denizen/models.py:70
+#| msgid "willing to  digital volounteer"
+msgid "willing to be a call center volounteer"
+msgstr "מוכן לעזור בטלפונים"
+
+#: denizen/models.py:72
+#| msgid "willing to  digital volounteer"
+msgid "willing to be a volounteer in the field"
+msgstr "מוכן להתנדב בשטח"
+
+#: denizen/models.py:74
 msgid "willing to  digital volounteer"
 msgstr "מוכן לעזור בדיגיטל"
 
-#: models.py:68
+#: denizen/models.py:76
+#| msgid "willing to host a meetup"
+msgid "want to be a guest in a meetup"
+msgstr "תישמח להתארח במפגש"
+
+#: denizen/models.py:79
 msgid "Interested in women rights"
 msgstr "מתעניינת בזכויות נשים"
 
-#: models.py:70
+#: denizen/models.py:81
 msgid "Interested in civic participation"
 msgstr "מתעניינת בשיתוף ציבור"
 
-#: models.py:72
+#: denizen/models.py:83
 msgid "Interested in the commons"
 msgstr "מתעניינת במרחב הציבורי"
 
-#: models.py:74
+#: denizen/models.py:85
 msgid "Interested in education"
 msgstr "מתעניינת בחינוך"
 
-#: models.py:75
+#: denizen/models.py:86
 msgid "Interested in religion"
 msgstr "מתעניינת בהדתה"
 
-#: models.py:76
+#: denizen/models.py:87
 msgid "Address"
 msgstr "כתובת"
 
-#: models.py:77
+#: denizen/models.py:88
 msgid "Notes"
 msgstr "הערות"
 
-#: models.py:78
+#: denizen/models.py:89
 msgid "zehut"
 msgstr "ת.ז."
 
-#: models.py:80
+#: denizen/models.py:91
 msgid "birth year"
 msgstr "שמת לידה"
 
-#: models.py:81
+#: denizen/models.py:92
 msgid "they can't be more than 108 years old"
 msgstr "אין מצב שהיא בת יותר מ 108"
 
-#: models.py:82
+#: denizen/models.py:93
 msgid "They can't be younger than 18"
 msgstr "אין מצב שהיא צעירה מ 18"
 
-#: models.py:83
+#: denizen/models.py:94
 msgid "ballot name"
 msgstr "שם הקלפי"
 
-#: models.py:86
+#: denizen/models.py:95
+msgid "Source"
+msgstr "מקור"
+
+#: denizen/models.py:96
+msgid "Whatever"
+msgstr "לא ברור"
+
+#: denizen/models.py:99
 msgid "Denizen"
 msgstr "תושב"
 
-#: models.py:87
+#: denizen/models.py:100
 msgid "Denizens"
 msgstr "תושבים"
