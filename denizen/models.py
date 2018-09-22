@@ -52,7 +52,8 @@ class Denizen(models.Model):
         _("father's name"), max_length=20, null=True, blank=True)
 
     phone = models.CharField(_("phone"), max_length=30)
-    edu_foundations = models.CharField(_("Education Foundations"), max_length=60, default='')
+    edu_foundations = models.CharField(
+        _("Education Foundations"), max_length=60, default='', blank=True)
     email = models.EmailField(_("email"), null=True, blank=True)
     state = models.CharField(
         _("state"), blank=True, max_length=1, null=True, choices=STATE_CHOICES,
