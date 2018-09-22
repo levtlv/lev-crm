@@ -6,6 +6,7 @@ from django.utils.translation import gettext as _
 STATE_CHOICES = (
     ('N', _('new')),
     ('!', _('for zippi')),
+    ('P', _('in progress')),
     ('W', _('walk in')),
     ('S', _('supporter')),
     ('U', _('undecided')),
