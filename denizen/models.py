@@ -96,6 +96,8 @@ class Denizen(models.Model):
     ballot = models.CharField(_("ballot name"), blank=True, max_length=30)
     source = models.CharField(_("Source"), max_length=20)
     whatever = models.CharField(_("Whatever"), max_length=60, default='')
+    created_on = models.DateTimeField(auto_now_add=True)
+    last_modified = models.DateTimeField(auto_now=True)
 
     class Meta:
         verbose_name = _("Denizen")
