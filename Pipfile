@@ -10,8 +10,8 @@ python_version = "3.6.5"
 
 [packages]
 Django = "*"
-django-csvimport = {git = "https://github.com/xavierlesa/django-csvimport.git"}
 gunicorn = "*"
 django-heroku = "*"
 googlemaps = "*"
 simplekml = "*"
+django-csvimport = {git = "https://git@github.com/levtlv/django-csvimport"}
