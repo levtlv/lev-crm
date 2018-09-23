@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "d90d990c3ef7a2ecb359737a721119f72bcd46de0b838ec808275893863083be"
+            "sha256": "6743ff12c723335a86e44b463af1313f401e439b042d2c57a3f8b20845639ef8"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -44,9 +44,6 @@
             ],
             "index": "pypi",
             "version": "==2.1.1"
-        },
-        "django-csvimport": {
-            "git": "https://git@github.com/levtlv/django-csvimport"
         },
         "django-heroku": {
             "hashes": [

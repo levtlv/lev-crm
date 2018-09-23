@@ -14,4 +14,3 @@ gunicorn = "*"
 django-heroku = "*"
 googlemaps = "*"
 simplekml = "*"
-django-csvimport = {git = "https://git@github.com/levtlv/django-csvimport"}
