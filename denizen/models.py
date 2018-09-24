@@ -17,7 +17,8 @@ STATE_CHOICES = (
      )
 
 VOLUNTEER_CHOICES = (
-    (None, _('no thanks')),
+    (None, _('unknown')),
+    ('N', _('no thanks')),
     ('W', _('willing')),
     ('F', _('fullfilled')),
 )
